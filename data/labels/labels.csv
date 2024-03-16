@@ -1,0 +1,1727 @@
+﻿Código|Valor|Etiqueta
+DEPTO_MCPIO|101|Guatemala
+DEPTO_MCPIO|102|Santa Catarina Pinula
+DEPTO_MCPIO|103|San José Pinula
+DEPTO_MCPIO|104|San José del Golfo
+DEPTO_MCPIO|105|Palencia
+DEPTO_MCPIO|106|Chinautla
+DEPTO_MCPIO|107|San Pedro Ayampuc
+DEPTO_MCPIO|108|Mixco
+DEPTO_MCPIO|109|San Pedro Sacatepéquez
+DEPTO_MCPIO|110|San Juan Sacatepéquez
+DEPTO_MCPIO|111|San Raymundo
+DEPTO_MCPIO|112|Chuarrancho
+DEPTO_MCPIO|113|Fraijanes
+DEPTO_MCPIO|114|Amatitlán
+DEPTO_MCPIO|115|Villa Nueva
+DEPTO_MCPIO|116|Villa Canales
+DEPTO_MCPIO|117|Petapa
+DEPTO_MCPIO|201|Guastatoya
+DEPTO_MCPIO|202|Morazán
+DEPTO_MCPIO|203|San Agustín Acasaguastlán
+DEPTO_MCPIO|204|San Cristóbal Acasaguastlán
+DEPTO_MCPIO|205|El Jícaro
+DEPTO_MCPIO|206|Sansare
+DEPTO_MCPIO|207|Sanarate
+DEPTO_MCPIO|208|San Antonio La Paz
+DEPTO_MCPIO|301|Antigua Guatemala
+DEPTO_MCPIO|302|Jocotenango
+DEPTO_MCPIO|303|Pastores
+DEPTO_MCPIO|304|Sumpango
+DEPTO_MCPIO|305|Santo Domingo Xenacoj
+DEPTO_MCPIO|306|Santiago Sacatepéquez
+DEPTO_MCPIO|307|San Bartolomé Milpas Altas
+DEPTO_MCPIO|308|San Lucas Sacatepéquez
+DEPTO_MCPIO|309|Santa Lucía Milpas Altas
+DEPTO_MCPIO|310|Magdalena Milpas Altas
+DEPTO_MCPIO|311|Santa María de Jesús
+DEPTO_MCPIO|312|Ciudad Vieja
+DEPTO_MCPIO|313|San Miguel Dueñas
+DEPTO_MCPIO|314|Alotenango
+DEPTO_MCPIO|315|San Antonio Aguas Calientes
+DEPTO_MCPIO|316|Santa Catarina Barahona
+DEPTO_MCPIO|401|Chimaltenango
+DEPTO_MCPIO|402|San José Poaquil
+DEPTO_MCPIO|403|San Martín Jilotepeque
+DEPTO_MCPIO|404|Comalapa
+DEPTO_MCPIO|405|Santa Apolonia
+DEPTO_MCPIO|406|Tecpán Guatemala
+DEPTO_MCPIO|407|Patzún
+DEPTO_MCPIO|408|Pochuta
+DEPTO_MCPIO|409|Patzicía
+DEPTO_MCPIO|410|Santa Cruz Balanyá
+DEPTO_MCPIO|411|Acatenango
+DEPTO_MCPIO|412|Yepocapa
+DEPTO_MCPIO|413|San Andrés Itzapa
+DEPTO_MCPIO|414|Parramos
+DEPTO_MCPIO|415|Zaragoza
+DEPTO_MCPIO|416|El Tejar
+DEPTO_MCPIO|501|Escuintla
+DEPTO_MCPIO|502|Santa Lucía Cotzumalguapa
+DEPTO_MCPIO|503|La Democracia
+DEPTO_MCPIO|504|Siquinalá
+DEPTO_MCPIO|505|Masagua
+DEPTO_MCPIO|506|Tiquisate
+DEPTO_MCPIO|507|La Gomera
+DEPTO_MCPIO|508|Guanagazapa
+DEPTO_MCPIO|509|San José
+DEPTO_MCPIO|510|Iztapa
+DEPTO_MCPIO|511|Palín
+DEPTO_MCPIO|512|San Vicente Pacaya
+DEPTO_MCPIO|513|Nueva Concepción
+DEPTO_MCPIO|514|Sipacate
+DEPTO_MCPIO|601|Cuilapa
+DEPTO_MCPIO|602|Barberena
+DEPTO_MCPIO|603|Santa Rosa de Lima
+DEPTO_MCPIO|604|Casillas
+DEPTO_MCPIO|605|San Rafael Las Flores
+DEPTO_MCPIO|606|Oratorio
+DEPTO_MCPIO|607|San Juan Tecuaco
+DEPTO_MCPIO|608|Chiquimulilla
+DEPTO_MCPIO|609|Taxisco
+DEPTO_MCPIO|610|Santa María Ixhuatán
+DEPTO_MCPIO|611|Guazacapán
+DEPTO_MCPIO|612|Santa Cruz Naranjo
+DEPTO_MCPIO|613|Pueblo Nuevo Viñas
+DEPTO_MCPIO|614|Nueva Santa Rosa
+DEPTO_MCPIO|701|Sololá
+DEPTO_MCPIO|702|San José Chacayá
+DEPTO_MCPIO|703|Santa María Visitación
+DEPTO_MCPIO|704|Santa Lucía Utatlán
+DEPTO_MCPIO|705|Nahualá
+DEPTO_MCPIO|706|Santa Catarina Ixtahuacán
+DEPTO_MCPIO|707|Santa Clara La Laguna
+DEPTO_MCPIO|708|Concepción
+DEPTO_MCPIO|709|San Andrés Semetabaj
+DEPTO_MCPIO|710|Panajachel
+DEPTO_MCPIO|711|Santa Catarina Palopó
+DEPTO_MCPIO|712|San Antonio Palopó
+DEPTO_MCPIO|713|San Lucas Toliman
+DEPTO_MCPIO|714|Santa Cruz La Laguna
+DEPTO_MCPIO|715|San Pablo La Laguna
+DEPTO_MCPIO|716|San Marcos La Laguna
+DEPTO_MCPIO|717|San Juan La Laguna
+DEPTO_MCPIO|718|San Pedro La Laguna
+DEPTO_MCPIO|719|Santiago Atitlán
+DEPTO_MCPIO|801|Totonicapán
+DEPTO_MCPIO|802|San Cristóbal Totonicapán
+DEPTO_MCPIO|803|San Francisco El Alto
+DEPTO_MCPIO|804|San Andrés Xecul
+DEPTO_MCPIO|805|Momostenango
+DEPTO_MCPIO|806|Santa María Chiquimula
+DEPTO_MCPIO|807|Santa Lucía La Reforma
+DEPTO_MCPIO|808|San Bartolo
+DEPTO_MCPIO|901|Quetzaltenango
+DEPTO_MCPIO|902|Salcajá
+DEPTO_MCPIO|903|Olintepeque
+DEPTO_MCPIO|904|San Carlos Sija
+DEPTO_MCPIO|905|Sibilia
+DEPTO_MCPIO|906|Cabricán
+DEPTO_MCPIO|907|Cajolá
+DEPTO_MCPIO|908|San Miguel Siguilá
+DEPTO_MCPIO|909|Ostuncalco
+DEPTO_MCPIO|910|San Mateo
+DEPTO_MCPIO|911|Concepción Chiquirichapa
+DEPTO_MCPIO|912|San Martín Sacatepéquez
+DEPTO_MCPIO|913|Almolonga
+DEPTO_MCPIO|914|Cantel
+DEPTO_MCPIO|915|Huitán
+DEPTO_MCPIO|916|Zunil
+DEPTO_MCPIO|917|Colomba
+DEPTO_MCPIO|918|San Francisco La Unión
+DEPTO_MCPIO|919|El Palmar
+DEPTO_MCPIO|920|Coatepeque
+DEPTO_MCPIO|921|Génova
+DEPTO_MCPIO|922|Flores Costa Cuca
+DEPTO_MCPIO|923|La Esperanza
+DEPTO_MCPIO|924|Palestina de Los Altos
+DEPTO_MCPIO|1001|Mazatenango
+DEPTO_MCPIO|1002|Cuyotenango
+DEPTO_MCPIO|1003|San Francisco Zapotitlán
+DEPTO_MCPIO|1004|San Bernardino
+DEPTO_MCPIO|1005|San José El Ídolo
+DEPTO_MCPIO|1006|Santo Domingo Suchitepéquez
+DEPTO_MCPIO|1007|San Lorenzo
+DEPTO_MCPIO|1008|Samayac
+DEPTO_MCPIO|1009|San Pablo Jocopilas
+DEPTO_MCPIO|1010|San Antonio Suchitepéquez
+DEPTO_MCPIO|1011|San Miguel Panán
+DEPTO_MCPIO|1012|San Gabriel
+DEPTO_MCPIO|1013|Chicacao
+DEPTO_MCPIO|1014|Patulul
+DEPTO_MCPIO|1015|Santa Bárbara
+DEPTO_MCPIO|1016|San Juan Bautista
+DEPTO_MCPIO|1017|Santo Tomás La Unión
+DEPTO_MCPIO|1018|Zunilito
+DEPTO_MCPIO|1019|Pueblo Nuevo 
+DEPTO_MCPIO|1020|Rio Bravo
+DEPTO_MCPIO|1021|San José La Máquina
+DEPTO_MCPIO|1101|Retalhuleu
+DEPTO_MCPIO|1102|San Sebastián
+DEPTO_MCPIO|1103|Santa Cruz Muluá
+DEPTO_MCPIO|1104|San Martín Zapotitlán
+DEPTO_MCPIO|1105|San Felipe
+DEPTO_MCPIO|1106|San Andrés Villa Seca
+DEPTO_MCPIO|1107|Champerico
+DEPTO_MCPIO|1108|Nuevo San Carlos
+DEPTO_MCPIO|1109|El Asintal
+DEPTO_MCPIO|1201|San Marcos
+DEPTO_MCPIO|1202|San Pedro Sacatepéquez
+DEPTO_MCPIO|1203|San Antonio Sacatepéquez
+DEPTO_MCPIO|1204|Comitancillo
+DEPTO_MCPIO|1205|San Miguel Ixtahuacán
+DEPTO_MCPIO|1206|Concepción Tutuapa
+DEPTO_MCPIO|1207|Tacaná
+DEPTO_MCPIO|1208|Sibinal
+DEPTO_MCPIO|1209|Tajumulco
+DEPTO_MCPIO|1210|Tejutla
+DEPTO_MCPIO|1211|San Rafael Pie de La Cuesta
+DEPTO_MCPIO|1212|Nuevo Progreso
+DEPTO_MCPIO|1213|El Tumbador
+DEPTO_MCPIO|1214|El Rodeo
+DEPTO_MCPIO|1215|Malacatán
+DEPTO_MCPIO|1216|Catarina
+DEPTO_MCPIO|1217|Ayutla
+DEPTO_MCPIO|1218|Ocós
+DEPTO_MCPIO|1219|San Pablo
+DEPTO_MCPIO|1220|El Quetzal
+DEPTO_MCPIO|1221|La Reforma
+DEPTO_MCPIO|1222|Pajapita
+DEPTO_MCPIO|1223|Ixchiguán
+DEPTO_MCPIO|1224|San José Ojetenam
+DEPTO_MCPIO|1225|San Cristóbal Cucho
+DEPTO_MCPIO|1226|Sipacapa
+DEPTO_MCPIO|1227|Esquipulas Palo Gordo
+DEPTO_MCPIO|1228|Rio Blanco
+DEPTO_MCPIO|1229|San Lorenzo
+DEPTO_MCPIO|1230|La Blanca
+DEPTO_MCPIO|1301|Huehuetenango
+DEPTO_MCPIO|1302|Chiantla
+DEPTO_MCPIO|1303|Malacatancito
+DEPTO_MCPIO|1304|Cuilco
+DEPTO_MCPIO|1305|Nentón
+DEPTO_MCPIO|1306|San Pedro Necta
+DEPTO_MCPIO|1307|Jacaltenango
+DEPTO_MCPIO|1308|Soloma
+DEPTO_MCPIO|1309|Ixtahuacán
+DEPTO_MCPIO|1310|Santa Bárbara
+DEPTO_MCPIO|1311|La Libertad
+DEPTO_MCPIO|1312|La Democracia
+DEPTO_MCPIO|1313|San Miguel Acatán
+DEPTO_MCPIO|1314|San Rafael La Independencia
+DEPTO_MCPIO|1315|Todos Santos Cuchumatán
+DEPTO_MCPIO|1316|San Juan Atitán
+DEPTO_MCPIO|1317|Santa Eulalia
+DEPTO_MCPIO|1318|San Mateo Ixtatán
+DEPTO_MCPIO|1319|Colotenango
+DEPTO_MCPIO|1320|San Sebastián Huehuetenango
+DEPTO_MCPIO|1321|Tectitán
+DEPTO_MCPIO|1322|Concepción Huista
+DEPTO_MCPIO|1323|San Juan Ixcoy
+DEPTO_MCPIO|1324|San Antonio Huista
+DEPTO_MCPIO|1325|San Sebastián Coatán
+DEPTO_MCPIO|1326|Barillas
+DEPTO_MCPIO|1327|Aguacatán
+DEPTO_MCPIO|1328|San Rafael Petzal
+DEPTO_MCPIO|1329|San Gaspar Ixchil
+DEPTO_MCPIO|1330|Santiago Chimaltenango
+DEPTO_MCPIO|1331|Santa Ana Huista
+DEPTO_MCPIO|1332|Unión Cantinil
+DEPTO_MCPIO|1333|Petatán
+DEPTO_MCPIO|1401|Santa Cruz del Quiché
+DEPTO_MCPIO|1402|Chiché
+DEPTO_MCPIO|1403|Chinique
+DEPTO_MCPIO|1404|Zacualpa
+DEPTO_MCPIO|1405|Chajul
+DEPTO_MCPIO|1406|Chichicastenango
+DEPTO_MCPIO|1407|Patzité
+DEPTO_MCPIO|1408|San Antonio Ilotenango
+DEPTO_MCPIO|1409|San Pedro Jocopilas
+DEPTO_MCPIO|1410|Cunén
+DEPTO_MCPIO|1411|San Juan Cotzal
+DEPTO_MCPIO|1412|Joyabaj
+DEPTO_MCPIO|1413|Nebaj
+DEPTO_MCPIO|1414|San Andrés Sajcabajá
+DEPTO_MCPIO|1415|Uspantán
+DEPTO_MCPIO|1416|Sacapulas
+DEPTO_MCPIO|1417|San Bartolomé Jocotenango
+DEPTO_MCPIO|1418|Canillá
+DEPTO_MCPIO|1419|Chicamán
+DEPTO_MCPIO|1420|Ixcán
+DEPTO_MCPIO|1421|Pachalum
+DEPTO_MCPIO|1501|Salamá
+DEPTO_MCPIO|1502|San Miguel Chicaj
+DEPTO_MCPIO|1503|Rabinal
+DEPTO_MCPIO|1504|Cubulco
+DEPTO_MCPIO|1505|Granados
+DEPTO_MCPIO|1506|El Chol
+DEPTO_MCPIO|1507|San Jerónimo
+DEPTO_MCPIO|1508|Purulhá
+DEPTO_MCPIO|1601|Cobán
+DEPTO_MCPIO|1602|Santa Cruz Verapaz
+DEPTO_MCPIO|1603|San Cristóbal Verapaz
+DEPTO_MCPIO|1604|Tactic
+DEPTO_MCPIO|1605|Tamahú
+DEPTO_MCPIO|1606|Tucurú
+DEPTO_MCPIO|1607|Panzós
+DEPTO_MCPIO|1608|Senahú
+DEPTO_MCPIO|1609|San Pedro Carchá
+DEPTO_MCPIO|1610|San Juan Chamelco
+DEPTO_MCPIO|1611|Lanquín
+DEPTO_MCPIO|1612|Cahabón
+DEPTO_MCPIO|1613|Chisec
+DEPTO_MCPIO|1614|Chahal
+DEPTO_MCPIO|1615|Fray Bartolomé de Las Casas
+DEPTO_MCPIO|1616|Santa Catalina la Tinta
+DEPTO_MCPIO|1617|Raxruhá
+DEPTO_MCPIO|1701|Flores
+DEPTO_MCPIO|1702|San José
+DEPTO_MCPIO|1703|San Benito
+DEPTO_MCPIO|1704|San Andrés
+DEPTO_MCPIO|1705|La Libertad
+DEPTO_MCPIO|1706|San Francisco
+DEPTO_MCPIO|1707|Santa Ana
+DEPTO_MCPIO|1708|Dolores
+DEPTO_MCPIO|1709|San Luis
+DEPTO_MCPIO|1710|Sayaxché
+DEPTO_MCPIO|1711|Melchor de Mencos
+DEPTO_MCPIO|1712|Poptún
+DEPTO_MCPIO|1713|Las Cruces
+DEPTO_MCPIO|1714|El Chal
+DEPTO_MCPIO|1801|Puerto Barrios
+DEPTO_MCPIO|1802|Livingston
+DEPTO_MCPIO|1803|El Estor
+DEPTO_MCPIO|1804|Morales
+DEPTO_MCPIO|1805|Los Amates
+DEPTO_MCPIO|1901|Zacapa
+DEPTO_MCPIO|1902|Estanzuela
+DEPTO_MCPIO|1903|Río Hondo
+DEPTO_MCPIO|1904|Gualán
+DEPTO_MCPIO|1905|Teculután
+DEPTO_MCPIO|1906|Usumatlán
+DEPTO_MCPIO|1907|Cabañas
+DEPTO_MCPIO|1908|San Diego
+DEPTO_MCPIO|1909|La Unión
+DEPTO_MCPIO|1910|Huité
+DEPTO_MCPIO|1911|San Jorge
+DEPTO_MCPIO|2001|Chiquimula
+DEPTO_MCPIO|2002|San José La Arada
+DEPTO_MCPIO|2003|San Juan Erminta
+DEPTO_MCPIO|2004|Jocotán
+DEPTO_MCPIO|2005|Camotán
+DEPTO_MCPIO|2006|Olopa
+DEPTO_MCPIO|2007|Esquipulas
+DEPTO_MCPIO|2008|Concepción Las Minas
+DEPTO_MCPIO|2009|Quetzaltepeque
+DEPTO_MCPIO|2010|San Jacinto
+DEPTO_MCPIO|2011|Ipala
+DEPTO_MCPIO|2101|Jalapa
+DEPTO_MCPIO|2102|San Pedro Pinula
+DEPTO_MCPIO|2103|San Luis Jilotepeque
+DEPTO_MCPIO|2104|San Manuel Chaparrón
+DEPTO_MCPIO|2105|San Carlos Alzatate
+DEPTO_MCPIO|2106|Monjas
+DEPTO_MCPIO|2107|Mataquescuintla
+DEPTO_MCPIO|2201|Jutiapa
+DEPTO_MCPIO|2202|El Progreso
+DEPTO_MCPIO|2203|Santa Catarina Mita
+DEPTO_MCPIO|2204|Agua Blanca
+DEPTO_MCPIO|2205|Asunción Mita
+DEPTO_MCPIO|2206|Yupiltepeque
+DEPTO_MCPIO|2207|Atescatempa
+DEPTO_MCPIO|2208|Jerez
+DEPTO_MCPIO|2209|El Adelanto
+DEPTO_MCPIO|2210|Zapotitlán
+DEPTO_MCPIO|2211|Comapa
+DEPTO_MCPIO|2212|Jalpatagua
+DEPTO_MCPIO|2213|Conguaco
+DEPTO_MCPIO|2214|Moyuta
+DEPTO_MCPIO|2215|Pasaco
+DEPTO_MCPIO|2216|San José Acatempa
+DEPTO_MCPIO|2217|Quesada
+QUIEN_REPORTA|1|Víctima
+QUIEN_REPORTA|2|Familiar de la víctima
+QUIEN_REPORTA|3|Otro
+QUIEN_REPORTA|9|Ignorado
+VIC_SEXO|1|Hombre
+VIC_SEXO|2|Mujer
+VIC_ALFAB|1|Alfabeta
+VIC_ALFAB|2|Analfabeta
+VIC_ALFAB|9|Ignorado
+VIC_ESCOLARIDAD|10|Ninguno
+VIC_EST_CIV|1|Soltero(a) 
+VIC_EST_CIV|2|Casado(a) 
+VIC_EST_CIV|3|Unido(a) (Unión declarada o no)
+VIC_EST_CIV|4|Viudo(a) 
+VIC_EST_CIV|5|Otro
+VIC_EST_CIV|9|Ignorado
+VIC_GRUPET|1|Ladino(a)
+VIC_GRUPET|2|Maya
+VIC_GRUPET|3|Garífuna
+VIC_GRUPET|4|Xinka
+VIC_GRUPET|5|Otro
+VIC_GRUPET|6|No indica
+VIC_GRUPET|9|Ignorado
+VIC_NACIONAL|1|Guatemalteca
+VIC_NACIONAL|2|Extranjera
+VIC_NACIONAL|9|Ignorado
+VIC_TRABAJA|1|Si trabaja por un salario o ingreso
+VIC_TRABAJA|2|No trabaja por un salario o ingreso
+VIC_TRABAJA|9|Ignorado
+VIC_OCUP|1111|Miembros del poder legislativo
+VIC_OCUP|1112|Personal directivo de la administración pública
+VIC_OCUP|1113|Jefes de pequeñas poblaciones
+VIC_OCUP|1114|Dirigentes de organizaciones que presentan un interés especial
+VIC_OCUP|1120|Directores generales y gerentes generales
+VIC_OCUP|1211|Directores financieros
+VIC_OCUP|1212|Directores de recursos humanos
+VIC_OCUP|1213|Directores de políticas y planificación
+VIC_OCUP|1219|Directores de administración y servicios no clasificados bajo otros epígrafes
+VIC_OCUP|1221|Directores de ventas y comercialización
+VIC_OCUP|1222|Directores de publicidad y relaciones públicas
+VIC_OCUP|1223|Directores de investigación y desarrollo
+VIC_OCUP|1311|Directores de producción agropecuaria y silvicultura
+VIC_OCUP|1312|Directores de producción de piscicultura y pesca
+VIC_OCUP|1321|Directores de industrias manufactureras
+VIC_OCUP|1322|Directores de explotaciones de minería
+VIC_OCUP|1323|Directores de empresas de construcción
+VIC_OCUP|1324|Directores de empresas de abastecimiento, distribución y afines
+VIC_OCUP|1330|Directores de servicios de tecnología de la información y las comunicaciones
+VIC_OCUP|1341|Directores de servicios de cuidados infantiles
+VIC_OCUP|1342|Directores de servicios de salud
+VIC_OCUP|1343|Directores de servicios de cuidado de las personas de edad
+VIC_OCUP|1344|Directores de servicios de bienestar social
+VIC_OCUP|1345|Directores de servicios de educación
+VIC_OCUP|1346|Gerentes de sucursales de bancos, de servicios financieros y de seguros
+VIC_OCUP|1349|Directores y gerentes de servicios profesionales no clasificados bajo otros epígrafes
+VIC_OCUP|1411|Gerentes de hoteles
+VIC_OCUP|1412|Gerentes de restaurantes
+VIC_OCUP|1420|Gerentes de comercios al por mayor y al por menor
+VIC_OCUP|1431|Gerentes de centros deportivos, de esparcimiento y culturales
+VIC_OCUP|1439|Gerentes de servicios no clasificados bajo otros epígrafes
+VIC_OCUP|2111|Físicos y astrónomos
+VIC_OCUP|2112|Meteorólogos
+VIC_OCUP|2113|Químicos
+VIC_OCUP|2114|Geólogos y geofísicos
+VIC_OCUP|2120|Matemáticos, actuarios y estadísticos
+VIC_OCUP|2131|Biólogos, botánicos, zoólogos y afines
+VIC_OCUP|2132|Agrónomos y afines
+VIC_OCUP|2133|Profesionales de la protección medioambiental
+VIC_OCUP|2141|Ingenieros industriales y de producción
+VIC_OCUP|2142|Ingenieros civiles
+VIC_OCUP|2143|Ingenieros medioambientales
+VIC_OCUP|2144|Ingenieros mecánicos
+VIC_OCUP|2145|Ingenieros químicos
+VIC_OCUP|2146|Ingenieros de minas, metalúrgicos y afines
+VIC_OCUP|2149|Ingenieros no clasificados bajo otros epígrafes
+VIC_OCUP|2151|Ingenieros electricistas
+VIC_OCUP|2152|Ingenieros electrónicos
+VIC_OCUP|2153|Ingenieros en telecomunicaciones
+VIC_OCUP|2161|Arquitectos
+VIC_OCUP|2162|Arquitectos paisajistas
+VIC_OCUP|2163|Diseñadores de productos y de prendas
+VIC_OCUP|2164|Urbanistas e ingenieros de tránsito
+VIC_OCUP|2165|Cartógrafos y agrimensores
+VIC_OCUP|2166|Diseñadores gráficos y multimedia
+VIC_OCUP|2211|Médicos generales
+VIC_OCUP|2212|Médicos especialistas
+VIC_OCUP|2221|Profesionales de enfermería
+VIC_OCUP|2222|Profesionales de partería
+VIC_OCUP|2230|Profesionales de medicina tradicional y alternativa
+VIC_OCUP|2240|Practicantes paramédicos
+VIC_OCUP|2250|Veterinarios
+VIC_OCUP|2261|Dentistas
+VIC_OCUP|2262|Farmacéuticos
+VIC_OCUP|2263|Profesionales de la salud y la higiene laboral y ambiental
+VIC_OCUP|2264|Fisioterapeutas
+VIC_OCUP|2265|Dietistas y nutricionistas
+VIC_OCUP|2266|Audiólogos y logopedas
+VIC_OCUP|2267|Optometristas
+VIC_OCUP|2269|Profesionales de la salud no clasificados bajo otros epígrafes
+VIC_OCUP|2310|Profesores de universidades y de la enseñanza superior
+VIC_OCUP|2320|Profesores de formación profesional
+VIC_OCUP|2330|Profesores de enseñanza secundaria
+VIC_OCUP|2341|Maestros de enseñanza primaria
+VIC_OCUP|2342|Maestros preescolares
+VIC_OCUP|2351|Especialistas en métodos pedagógicos
+VIC_OCUP|2352|Educadores para necesidades especiales
+VIC_OCUP|2353|Otros profesores de idiomas
+VIC_OCUP|2354|Otros profesores de música
+VIC_OCUP|2355|Otros profesores de artes
+VIC_OCUP|2356|Instructores en tecnología de la información
+VIC_OCUP|2359|Profesionales de la enseñanza no clasificados bajo otros epígrafes
+VIC_OCUP|2411|Contables
+VIC_OCUP|2412|Asesores financieros y en inversiones
+VIC_OCUP|2413|Analistas financieros
+VIC_OCUP|2421|Analistas de gestión y organización
+VIC_OCUP|2422|Especialistas en políticas de administración
+VIC_OCUP|2423|Especialistas en políticas y servicios de personal y afines
+VIC_OCUP|2424|Especialistas en formación del personal
+VIC_OCUP|2431|Profesionales de la publicidad y la comercialización
+VIC_OCUP|2432|Profesionales de relaciones públicas
+VIC_OCUP|2433|Profesionales de ventas técnicas y médicas (excluyendo la TIC)
+VIC_OCUP|2434|Profesionales de ventas de tecnología de la información y las comunicaciones
+VIC_OCUP|2511|Analistas de sistemas
+VIC_OCUP|2512|Desarrolladores de software
+VIC_OCUP|2513|Desarrolladores web y multimedia
+VIC_OCUP|2514|Programadores de aplicaciones
+VIC_OCUP|2519|Desarrolladores y analistas de software y multimedia y analistas no clasificados bajo otros epígrafes
+VIC_OCUP|2521|Diseñadores y administradores de bases de datos
+VIC_OCUP|2522|Administradores de sistemas
+VIC_OCUP|2523|Profesionales en redes de computadores
+VIC_OCUP|2529|Especialistas en bases de datos y en redes de computadores no clasificados bajo otros epígrafes
+VIC_OCUP|2611|Abogados
+VIC_OCUP|2612|Jueces
+VIC_OCUP|2619|Profesionales en derecho no clasificados bajo otros epígrafes
+VIC_OCUP|2621|Archivistas y curadores de museos
+VIC_OCUP|2622|Bibliotecarios, documentalistas y afines
+VIC_OCUP|2631|Economistas
+VIC_OCUP|2632|Sociólogos, antropólogos y afines
+VIC_OCUP|2633|Filósofos, historiadores y especialistas en ciencias políticas
+VIC_OCUP|2634|Psicólogos
+VIC_OCUP|2635|Profesionales del trabajo social
+VIC_OCUP|2636|Profesionales religiosos
+VIC_OCUP|2641|Autores y otros escritores
+VIC_OCUP|2642|Periodistas
+VIC_OCUP|2643|Traductores, intérpretes y lingüistas
+VIC_OCUP|2651|Artistas de artes plásticas
+VIC_OCUP|2652|Músicos, cantantes y compositores
+VIC_OCUP|2653|Bailarines y coreógrafos
+VIC_OCUP|2654|Directores de cine, de teatro y afines
+VIC_OCUP|2655|Actores
+VIC_OCUP|2656|Locutores de radio, televisión y otros medios de comunicación
+VIC_OCUP|2659|Artistas creativos e interpretativos no clasificados bajo otros epígrafes
+VIC_OCUP|3111|Técnicos en ciencias físicas y químicas
+VIC_OCUP|3112|Técnicos en ingeniería civil
+VIC_OCUP|3113|Electrotécnicos
+VIC_OCUP|3114|Técnicos en electrónica
+VIC_OCUP|3115|Técnicos en ingeniería mecánica
+VIC_OCUP|3116|Técnicos en química industrial
+VIC_OCUP|3117|Técnicos en ingeniería de minas y metalurgia
+VIC_OCUP|3118|Delineantes y dibujantes técnicos
+VIC_OCUP|3119|Técnicos en ciencias físicas y en ingeniería no clasificados bajo otros epígrafes
+VIC_OCUP|3121|Supervisores en ingeniería de minas
+VIC_OCUP|3122|Supervisores de industrias manufactureras
+VIC_OCUP|3123|Supervisores de la construcción
+VIC_OCUP|3131|Operadores de instalaciones de producción de energía
+VIC_OCUP|3132|Operadores de incineradores, instalaciones de tratamiento de agua y afines
+VIC_OCUP|3133|Controladores de instalaciones de procesamiento de productos químicos
+VIC_OCUP|3134|Operadores de instalaciones de refinación de petróleo y gas natural
+VIC_OCUP|3135|Controladores de procesos de producción de metales
+VIC_OCUP|3139|Técnicos en control de procesos no clasificados bajo otros epígrafes
+VIC_OCUP|3141|Técnicos en ciencias biológicas (excluyendo la medicina)
+VIC_OCUP|3142|Técnicos agropecuarios
+VIC_OCUP|3143|Técnicos forestales
+VIC_OCUP|3151|Oficiales maquinistas en navegación
+VIC_OCUP|3152|Capitanes, oficiales de cubierta y prácticos
+VIC_OCUP|3153|Pilotos de aviación y afines
+VIC_OCUP|3154|Controladores de tráfico aéreo
+VIC_OCUP|3155|Técnicos en seguridad aeronáutica
+VIC_OCUP|3211|Técnicos en aparatos de diagnóstico y tratamiento médico
+VIC_OCUP|3212|Técnicos de laboratorios médicos
+VIC_OCUP|3213|Técnicos y asistentes farmacéuticos
+VIC_OCUP|3214|Técnicos de prótesis médicas y dentales
+VIC_OCUP|3221|Profesionales de nivel medio de enfermería
+VIC_OCUP|3222|Profesionales de nivel medio de partería
+VIC_OCUP|3230|Profesionales de nivel medio de medicina tradicional y alternativa
+VIC_OCUP|3240|Técnicos y asistentes veterinarios
+VIC_OCUP|3251|Dentistas auxiliares y ayudantes de odontología
+VIC_OCUP|3252|Técnicos en documentación sanitaria
+VIC_OCUP|3253|Trabajadores comunitarios de la salud
+VIC_OCUP|3254|Técnicos en optometría y ópticos
+VIC_OCUP|3255|Técnicos y asistentes fisioterapeutas
+VIC_OCUP|3256|Practicantes y asistentes médicos
+VIC_OCUP|3257|Inspectores de la salud laboral, medioambiental y afines
+VIC_OCUP|3258|Ayudantes de ambulancias
+VIC_OCUP|3259|Profesionales de la salud de nivel medio no clasificados bajo otros epígrafes
+VIC_OCUP|3311|Agentes de bolsa, cambio y otros servicios financieros
+VIC_OCUP|3312|Oficiales de préstamos y créditos
+VIC_OCUP|3313|Tenedores de libros
+VIC_OCUP|3314|Profesionales de nivel medio de servicios estadísticos, matemáticos y afines
+VIC_OCUP|3315|Tasadores
+VIC_OCUP|3321|Agentes de seguros
+VIC_OCUP|3322|Representantes comerciales
+VIC_OCUP|3323|Agentes de compras
+VIC_OCUP|3324|Agentes de compras y consignatarios
+VIC_OCUP|3331|Declarantes o gestores de aduana
+VIC_OCUP|3332|Organizadores de conferencias y eventos
+VIC_OCUP|3333|Agentes de empleo y contratistas de mano de obra
+VIC_OCUP|3334|Agentes inmobiliarios
+VIC_OCUP|3339|Agentes de servicios comerciales no clasificados bajo otros epígrafes
+VIC_OCUP|3341|Supervisores de secretaría
+VIC_OCUP|3342|Secretarios jurídicos
+VIC_OCUP|3343|Secretarios administrativos y ejecutivos
+VIC_OCUP|3344|Secretarios médicos
+VIC_OCUP|3351|Agentes de aduana e inspectores de fronteras
+VIC_OCUP|3352|Agentes de administración tributaria
+VIC_OCUP|3353|Agentes de servicios de seguridad social
+VIC_OCUP|3354|Agentes de servicios de expedición de licencias y permisos
+VIC_OCUP|3355|Inspectores de policía y detectives
+VIC_OCUP|3359|Agentes de la administración pública para la aplicación de la ley y afines no clasificados bajo otros epígrafes
+VIC_OCUP|3411|Profesionales de nivel medio del derecho y servicios legales y afines
+VIC_OCUP|3412|Trabajadores y asistentes sociales de nivel medio
+VIC_OCUP|3413|Auxiliares laicos de las religiones
+VIC_OCUP|3421|Atletas y deportistas
+VIC_OCUP|3422|Entrenadores, instructores y árbitros de actividades deportivas
+VIC_OCUP|3423|Instructores de educación física y actividades recreativas
+VIC_OCUP|3431|Fotógrafos
+VIC_OCUP|3432|Diseñadores y decoradores de interior
+VIC_OCUP|3433|Técnicos en galerías de arte, museos y bibliotecas
+VIC_OCUP|3434|Chefs
+VIC_OCUP|3435|Otros profesionales de nivel medio en actividades culturales y artistas
+VIC_OCUP|3511|Técnicos en operaciones de tecnología de la información y las comunicaciones
+VIC_OCUP|3512|Técnicos en asistencia al usuario de tecnología de la información y las comunicaciones
+VIC_OCUP|3513|Técnicos en redes y sistemas de computadores
+VIC_OCUP|3514|Técnicos de la web
+VIC_OCUP|3521|Técnicos de radiodifusión y grabación audio visual
+VIC_OCUP|3522|Técnicos de ingeniería de las telecomunicaciones
+VIC_OCUP|4110|Oficinistas generales
+VIC_OCUP|4120|Secretarios (general)
+VIC_OCUP|4131|Operadores de máquinas de procesamiento de texto y mecanógrafos
+VIC_OCUP|4132|Grabadores de datos
+VIC_OCUP|4211|Cajeros de bancos y afines
+VIC_OCUP|4212|Receptores de apuestas y afines
+VIC_OCUP|4213|Prestamistas
+VIC_OCUP|4214|Cobradores y afines
+VIC_OCUP|4221|Empleados de agencias de viajes
+VIC_OCUP|4222|Empleados de centros de llamadas
+VIC_OCUP|4223|Telefonistas
+VIC_OCUP|4224|Recepcionistas de hoteles
+VIC_OCUP|4225|Empleados de ventanillas de informaciones
+VIC_OCUP|4226|Recepcionistas (general)
+VIC_OCUP|4227|Entrevistadores de encuestas y de investigaciones de mercados
+VIC_OCUP|4229|Empleados de servicios de información al cliente no clasificados bajo otros epígrafes
+VIC_OCUP|4311|Empleados de contabilidad y cálculo de costos
+VIC_OCUP|4312|Empleados de servicios estadísticos, financieros y de seguros
+VIC_OCUP|4313|Empleados encargados de las nóminas
+VIC_OCUP|4321|Empleados de control de abastecimientos e inventario
+VIC_OCUP|4322|Empleados de servicios de apoyo a la producción
+VIC_OCUP|4323|Empleados de servicios de transporte
+VIC_OCUP|4411|Empleados de bibliotecas
+VIC_OCUP|4412|Empleados de servicios de correos
+VIC_OCUP|4413|Codificadores de datos, correctores de pruebas de imprenta y afines
+VIC_OCUP|4414|Escribientes públicos y afines
+VIC_OCUP|4415|Empleados de archivos
+VIC_OCUP|4416|Empleados del servicio de personal
+VIC_OCUP|4419|Personal de apoyo administrativo no clasificado bajo otros epígrafes
+VIC_OCUP|5111|Auxiliares de servicio de abordo
+VIC_OCUP|5112|Revisores y cobradores de los transportes públicos
+VIC_OCUP|5113|Guías de turismo
+VIC_OCUP|5120|Cocineros
+VIC_OCUP|5131|Camareros de mesas
+VIC_OCUP|5132|Camareros de barra
+VIC_OCUP|5141|Peluqueros
+VIC_OCUP|5142|Especialistas en tratamientos de belleza y afines
+VIC_OCUP|5151|Supervisores de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos
+VIC_OCUP|5152|Ecónomos y mayordomos domésticos
+VIC_OCUP|5153|Conserjes
+VIC_OCUP|5161|Astrólogos, adivinadores y afines
+VIC_OCUP|5162|Acompañantes y ayudantes de cámara
+VIC_OCUP|5163|Personal de pompas fúnebres y embalsamadores
+VIC_OCUP|5164|Cuidadores de animales
+VIC_OCUP|5165|Instructores de autoescuela
+VIC_OCUP|5169|Trabajadores de servicios personales no clasificados bajo otros epígrafes
+VIC_OCUP|5211|Vendedores de quioscos y de puestos de mercado
+VIC_OCUP|5212|Vendedores ambulantes de productos comestibles
+VIC_OCUP|5221|Comerciantes de tiendas
+VIC_OCUP|5222|Supervisores de tiendas y almacenes
+VIC_OCUP|5223|Asistentes de venta de tiendas y almacenes
+VIC_OCUP|5230|Cajeros y expendedores de billetes
+VIC_OCUP|5241|Modelos de moda, arte y publicidad
+VIC_OCUP|5242|Demostradores de tiendas
+VIC_OCUP|5243|Vendedores puerta a puerta
+VIC_OCUP|5244|Vendedores por teléfono
+VIC_OCUP|5245|Expendedores de gasolineras
+VIC_OCUP|5246|Vendedores de comidas al mostrador
+VIC_OCUP|5249|Vendedores no clasificados bajo otros epígrafes
+VIC_OCUP|5311|Cuidadores de niños
+VIC_OCUP|5312|Auxiliares de maestros
+VIC_OCUP|5321|Trabajadores de los cuidados personales en instituciones
+VIC_OCUP|5322|Trabajadores de los cuidados personales a domicilio
+VIC_OCUP|5329|Trabajadores de los cuidados personales en servicios de salud no clasificados bajo otros epígrafes
+VIC_OCUP|5411|Bomberos
+VIC_OCUP|5412|Policías
+VIC_OCUP|5413|Guardianes de prisión
+VIC_OCUP|5414|Guardias de protección
+VIC_OCUP|5419|Personal de los servicios de protección no clasificados bajo otros epígrafes
+VIC_OCUP|6111|Agricultores y trabajadores calificados de cultivos extensivos
+VIC_OCUP|6112|Agricultores y trabajadores calificados de plantaciones de árboles y arbustos
+VIC_OCUP|6113|Agricultores y trabajadores calificados de huertas, invernaderos, viveros y jardines
+VIC_OCUP|6114|Agricultores y trabajadores calificados de cultivos mixtos 
+VIC_OCUP|6121|Criadores de ganado
+VIC_OCUP|6122|Avicultores y trabajadores calificados de la avicultura
+VIC_OCUP|6123|Apicultores y sericultores y trabajadores calificados de la apicultura y la sericultura
+VIC_OCUP|6129|Criadores y trabajadores pecuarios calificados de la cría de animales no clasificados bajo otros epígrafes
+VIC_OCUP|6130|Productores y trabajadores calificados de explotaciones agropecuarias mixtas cuya producción se destina al mercado
+VIC_OCUP|6210|Trabajadores forestales calificados y afines
+VIC_OCUP|6221|Trabajadores de explotaciones de acuicultura
+VIC_OCUP|6222|Pescadores de agua dulce y en aguas costeras
+VIC_OCUP|6223|Pescadores de alta mar
+VIC_OCUP|6224|Cazadores y tramperos
+VIC_OCUP|6310|Trabajadores agrícolas de subsistencia
+VIC_OCUP|6320|Trabajadores pecuarios de subsistencia
+VIC_OCUP|6330|Trabajadores agropecuarios de subsistencia
+VIC_OCUP|6340|Pescadores, cazadores, tramperos y recolectores de subsistencia
+VIC_OCUP|7111|Constructores de casas
+VIC_OCUP|7112|Albañiles
+VIC_OCUP|7113|Mamposteros, tronzadores, labrantes y grabadores de piedra
+VIC_OCUP|7114|Operarios en cemento armado, enfoscadores y afines
+VIC_OCUP|7115|Carpinteros de armar y de obra blanca
+VIC_OCUP|7119|Oficiales y operarios de la construcción (obra gruesa) y afines no clasificados bajo otros epígrafes
+VIC_OCUP|7121|Techadores
+VIC_OCUP|7122|Parqueteros y colocadores de suelos
+VIC_OCUP|7123|Revocadores
+VIC_OCUP|7124|Instaladores de material aislante y de insonorización
+VIC_OCUP|7125|Cristaleros
+VIC_OCUP|7126|Fontaneros e instaladores de tuberías
+VIC_OCUP|7127|Mecánicos-montadores de instalaciones de refrigeración y climatización
+VIC_OCUP|7131|Pintores y empapeladores
+VIC_OCUP|7132|Barnizadores y afines
+VIC_OCUP|7133|Limpiadores de fachadas y deshollinadores
+VIC_OCUP|7211|Moldeadores y macheros
+VIC_OCUP|7212|Soldadores y oxicortadores
+VIC_OCUP|7213|Chapistas y caldereros
+VIC_OCUP|7214|Montadores de estructuras metálicas
+VIC_OCUP|7215|Aparejadores y empalmadores de cables
+VIC_OCUP|7221|Herreros y forjadores
+VIC_OCUP|7222|Herramentistas y afines
+VIC_OCUP|7223|Reguladores y operadores de máquinas herramientas
+VIC_OCUP|7224|Pulidores de metales y afiladores de herramientas
+VIC_OCUP|7231|Mecánicos y reparadores de vehículos de motor
+VIC_OCUP|7232|Mecánicos y reparadores de motores de avión
+VIC_OCUP|7233|Mecánicos y reparadores de máquinas agrícolas e industriales
+VIC_OCUP|7234|Reparadores de bicicletas y afines
+VIC_OCUP|7311|Mecánicos y reparadores de instrumentos de precisión
+VIC_OCUP|7312|Fabricantes y afinadores de instrumentos musicales
+VIC_OCUP|7313|Joyeros, orfebres y plateros
+VIC_OCUP|7314|Alfareros y afines (barro, arcilla y abrasivos)
+VIC_OCUP|7315|Sopladores, modeladores, laminadores, cortadores y pulidores de vidrio
+VIC_OCUP|7316|Redactores de carteles, pintores decorativos y grabadores
+VIC_OCUP|7317|Artesanos en madera, cestería y materiales similares
+VIC_OCUP|7318|Artesanos de los tejidos, el cuero y materiales similares
+VIC_OCUP|7319|Artesanos no clasificados bajo otros epígrafes
+VIC_OCUP|7321|Cajistas, tipógrafos y afines
+VIC_OCUP|7322|Impresores
+VIC_OCUP|7323|Encuadernadores y afines
+VIC_OCUP|7411|Electricistas de obras y afines
+VIC_OCUP|7412|Mecánicos y ajustadores electricistas
+VIC_OCUP|7413|Instaladores y reparadores de líneas eléctricas
+VIC_OCUP|7421|Mecánicos y reparadores en electrónica
+VIC_OCUP|7422|Instaladores y reparadores en tecnología de la información y las comunicaciones
+VIC_OCUP|7511|Carniceros, pescaderos y afines
+VIC_OCUP|7512|Panaderos, pasteleros y confiteros
+VIC_OCUP|7513|Operarios de la elaboración de productos lácteos
+VIC_OCUP|7514|Operarios de la conservación de frutas, legumbres, verduras y afines
+VIC_OCUP|7515|Catadores y clasificadores de alimentos y bebidas
+VIC_OCUP|7516|Preparadores y elaboradores de tabaco y sus productos
+VIC_OCUP|7521|Operarios del tratamiento de la madera
+VIC_OCUP|7522|Ebanistas y afines
+VIC_OCUP|7523|Reguladores y operadores de máquinas de labrar madera
+VIC_OCUP|7531|Sastres, modistos, peleteros y sombrereros
+VIC_OCUP|7532|Patronistas y cortadores de tela y afines
+VIC_OCUP|7533|Costureros, bordadores y afines
+VIC_OCUP|7534|Tapiceros, colchoneros y afines
+VIC_OCUP|7535|Apelambradores, pellejeros y curtidores
+VIC_OCUP|7536|Zapateros y afines
+VIC_OCUP|7541|Buzos
+VIC_OCUP|7542|Dinamiteros y pegadores
+VIC_OCUP|7543|Clasificadores y probadores de productos (excluyendo alimentos y bebidas)
+VIC_OCUP|7544|Fumigadores y otros controladores de plagas y malas hierbas
+VIC_OCUP|7549|Oficiales, operarios y artesanos de artes mecánicas y de otros oficios no clasificados bajo otros epígrafes
+VIC_OCUP|8111|Mineros y operadores de instalaciones mineras
+VIC_OCUP|8112|Operadores de instalaciones de procesamiento de minerales y rocas
+VIC_OCUP|8113|Perforadores y sondistas de pozos y afines
+VIC_OCUP|8114|Operadores de máquinas para fabricar cemento y otros productos minerales
+VIC_OCUP|8121|Operadores de instalaciones de procesamiento de metales
+VIC_OCUP|8122|Operadores de máquinas pulidoras, galvanizadoras y recubridoras  de metales
+VIC_OCUP|8131|Operadores de plantas y máquinas de productos químicos
+VIC_OCUP|8132|Operadores de máquinas para fabricar productos fotográficos
+VIC_OCUP|8141|Operadores de máquinas para fabricar productos de caucho
+VIC_OCUP|8142|Operadores de máquinas para fabricar productos de material plástico
+VIC_OCUP|8143|Operadores de máquinas para fabricar productos de papel
+VIC_OCUP|8151|Operadores de máquinas de preparación de fibras, hilado y devanado
+VIC_OCUP|8152|Operadores de telares y otras máquinas tejedoras
+VIC_OCUP|8153|Operadores de máquinas de coser
+VIC_OCUP|8154|Operadores de máquinas de blanqueamiento, teñido y limpieza de tejidos
+VIC_OCUP|8155|Operadores de máquinas de tratamiento de pieles y cueros
+VIC_OCUP|8156|Operadores de máquinas para la fabricación de calzado y afines
+VIC_OCUP|8157|Operadores de máquinas lavarropas
+VIC_OCUP|8159|Operadores de máquinas para fabricar productos textiles y artículos de piel y cuero no clasificados bajo otros epígrafes
+VIC_OCUP|8160|Operadores de máquinas para elaborar alimentos y productos afines
+VIC_OCUP|8171|Operadores de instalaciones para la preparación de pasta para papel y papel
+VIC_OCUP|8172|Operadores de instalaciones de procesamiento de la madera
+VIC_OCUP|8181|Operadores de instalaciones de vidriería y cerámica
+VIC_OCUP|8182|Operadores de máquinas de vapor y calderas
+VIC_OCUP|8183|Operadores de máquinas de embalaje, embotellamiento y etiquetado
+VIC_OCUP|8189|Operadores de máquinas y de instalaciones fijas no clasificados bajo otros epígrafes
+VIC_OCUP|8211|Ensambladores de maquinaria mecánica
+VIC_OCUP|8212|Ensambladores de equipos eléctricos y electrónicos
+VIC_OCUP|8219|Ensambladores no clasificados bajo otros epígrafes
+VIC_OCUP|8311|Maquinistas de locomotoras
+VIC_OCUP|8312|Guardafrenos, guardagujas y agentes de maniobras
+VIC_OCUP|8321|Conductores de motocicletas
+VIC_OCUP|8322|Conductores de automóviles, taxis y camionetas
+VIC_OCUP|8331|Conductores de autobuses y tranvías
+VIC_OCUP|8332|Conductores de camiones pesados
+VIC_OCUP|8341|Operadores de maquinaria agrícola y forestal móvil
+VIC_OCUP|8342|Operadores de máquinas de movimiento de tierras y afines
+VIC_OCUP|8343|Operadores de grúas, aparatos elevadores y afines
+VIC_OCUP|8344|Operadores de autoelevadoras
+VIC_OCUP|8350|Marineros de cubierta y afines
+VIC_OCUP|9111|Limpiadores y asistentes domésticos
+VIC_OCUP|9112|Limpiadores y asistentes de oficinas, hoteles y otros establecimientos
+VIC_OCUP|9113|Personal doméstico
+VIC_OCUP|9121|Lavanderos y planchadores manuales
+VIC_OCUP|9122|Lavadores de vehículos
+VIC_OCUP|9123|Lavadores de ventanas
+VIC_OCUP|9129|Otro personal de limpieza
+VIC_OCUP|9211|Peones de explotaciones agrícolas
+VIC_OCUP|9212|Peones de explotaciones ganaderas
+VIC_OCUP|9213|Peones de explotaciones de cultivos mixtos y ganaderos
+VIC_OCUP|9214|Peones de jardinería y horticultura
+VIC_OCUP|9215|Peones forestales
+VIC_OCUP|9216|Peones de pesca y acuicultura
+VIC_OCUP|9311|Peones de minas y canteras
+VIC_OCUP|9312|Peones de obras públicas y mantenimiento
+VIC_OCUP|9313|Peones de la construcción de edificios
+VIC_OCUP|9321|Empacadores manuales
+VIC_OCUP|9329|Peones de la industria manufacturera no clasificados bajo otros epígrafes
+VIC_OCUP|9331|Conductores de vehículos accionados a pedal o a brazo
+VIC_OCUP|9332|Conductores de vehículos y máquinas de tracción animal
+VIC_OCUP|9333|Peones de carga
+VIC_OCUP|9334|Reponedores de estanterías
+VIC_OCUP|9411|Cocineros de comidas rápidas
+VIC_OCUP|9412|Ayudantes de cocina
+VIC_OCUP|9510|Trabajadores ambulantes de servicios y afines
+VIC_OCUP|9520|Vendedores ambulantes (excluyendo de comida)
+VIC_OCUP|9611|Recolectores de basura y material reciclable
+VIC_OCUP|9612|Clasificadores de desechos
+VIC_OCUP|9613|Barrenderos y afines
+VIC_OCUP|9621|Mensajeros, mandaderos, maleteros y repartidores
+VIC_OCUP|9622|Personas que realizan trabajos varios
+VIC_OCUP|9623|Recolectores de dinero en aparatos de venta automática y lectores de medidores
+VIC_OCUP|9624|Acarreadores de agua y recolectores de leña
+VIC_OCUP|9629|Ocupaciones elementales no clasificadas bajo otros epígrafes
+VIC_OCUP|110|Oficiales de las fuerzas armadas
+VIC_OCUP|210|Suboficiales de las fuerzas armadas
+VIC_OCUP|310|Otros miembros de las fuerzas armadas
+VIC_OCUP|9998|Ocupaciones no especificadas en las anteriores
+VIC_OCUP|9999|Ocupación ignorada
+VIC_DEDICA|1|Quehaceres del hogar
+VIC_DEDICA|2|Vive de su renta o jubilación 
+VIC_DEDICA|3|Estudiar
+VIC_DEDICA|4|Desempleado
+VIC_DEDICA|6|Otro
+VIC_DEDICA|9|Ignorado
+VIC_DISC|1|Con discapacidad
+VIC_DISC|2|Sin discapacidad
+VIC_DISC|9|Ignorado
+TIPO_DISCAQ|1|Ceguera
+TIPO_DISCAQ|2|Sordera
+TIPO_DISCAQ|3|Pérdida o discapacidad de las extremidades superiores
+TIPO_DISCAQ|4|Pérdida o discapacidad de las extremidades inferiores
+TIPO_DISCAQ|5|Deficiencia mental 
+TIPO_DISCAQ|6|Otra discapacidad 
+TIPO_DISCAQ|9|Ignorado
+VIC_REL_AGR|1|Esposo/a
+VIC_REL_AGR|2|Conviviente
+VIC_REL_AGR|3|Exconviviente
+VIC_REL_AGR|4|Hijos/a
+VIC_REL_AGR|5|Hijastros/a
+VIC_REL_AGR|6|Padre/Madre
+VIC_REL_AGR|7|Nieto/a
+VIC_REL_AGR|8|Suegro/a
+VIC_REL_AGR|9|Hermano/a
+VIC_REL_AGR|10|Otro pariente
+HEC_DEPTOMCPIO|101|Guatemala
+HEC_DEPTOMCPIO|102|Santa Catarina Pinula
+HEC_DEPTOMCPIO|103|San José Pinula
+HEC_DEPTOMCPIO|104|San José del Golfo
+HEC_DEPTOMCPIO|105|Palencia
+HEC_DEPTOMCPIO|106|Chinautla
+HEC_DEPTOMCPIO|107|San Pedro Ayampuc
+HEC_DEPTOMCPIO|108|Mixco
+HEC_DEPTOMCPIO|109|San Pedro Sacatepéquez
+HEC_DEPTOMCPIO|110|San Juan Sacatepéquez
+HEC_DEPTOMCPIO|111|San Raymundo
+HEC_DEPTOMCPIO|112|Chuarrancho
+HEC_DEPTOMCPIO|113|Fraijanes
+HEC_DEPTOMCPIO|114|Amatitlán
+HEC_DEPTOMCPIO|115|Villa Nueva
+HEC_DEPTOMCPIO|116|Villa Canales
+HEC_DEPTOMCPIO|117|Petapa
+HEC_DEPTOMCPIO|201|Guastatoya
+HEC_DEPTOMCPIO|202|Morazán
+HEC_DEPTOMCPIO|203|San Agustín Acasaguastlán
+HEC_DEPTOMCPIO|204|San Cristóbal Acasaguastlán
+HEC_DEPTOMCPIO|205|El Jícaro
+HEC_DEPTOMCPIO|206|Sansare
+HEC_DEPTOMCPIO|207|Sanarate
+HEC_DEPTOMCPIO|208|San Antonio La Paz
+HEC_DEPTOMCPIO|301|Antigua Guatemala
+HEC_DEPTOMCPIO|302|Jocotenango
+HEC_DEPTOMCPIO|303|Pastores
+HEC_DEPTOMCPIO|304|Sumpango
+HEC_DEPTOMCPIO|305|Santo Domingo Xenacoj
+HEC_DEPTOMCPIO|306|Santiago Sacatepéquez
+HEC_DEPTOMCPIO|307|San Bartolomé Milpas Altas
+HEC_DEPTOMCPIO|308|San Lucas Sacatepéquez
+HEC_DEPTOMCPIO|309|Santa Lucía Milpas Altas
+HEC_DEPTOMCPIO|310|Magdalena Milpas Altas
+HEC_DEPTOMCPIO|311|Santa María de Jesús
+HEC_DEPTOMCPIO|312|Ciudad Vieja
+HEC_DEPTOMCPIO|313|San Miguel Dueñas
+HEC_DEPTOMCPIO|314|Alotenango
+HEC_DEPTOMCPIO|315|San Antonio Aguas Calientes
+HEC_DEPTOMCPIO|316|Santa Catarina Barahona
+HEC_DEPTOMCPIO|401|Chimaltenango
+HEC_DEPTOMCPIO|402|San José Poaquil
+HEC_DEPTOMCPIO|403|San Martín Jilotepeque
+HEC_DEPTOMCPIO|404|Comalapa
+HEC_DEPTOMCPIO|405|Santa Apolonia
+HEC_DEPTOMCPIO|406|Tecpán Guatemala
+HEC_DEPTOMCPIO|407|Patzún
+HEC_DEPTOMCPIO|408|Pochuta
+HEC_DEPTOMCPIO|409|Patzicía
+HEC_DEPTOMCPIO|410|Santa Cruz Balanyá
+HEC_DEPTOMCPIO|411|Acatenango
+HEC_DEPTOMCPIO|412|Yepocapa
+HEC_DEPTOMCPIO|413|San Andrés Itzapa
+HEC_DEPTOMCPIO|414|Parramos
+HEC_DEPTOMCPIO|415|Zaragoza
+HEC_DEPTOMCPIO|416|El Tejar
+HEC_DEPTOMCPIO|501|Escuintla
+HEC_DEPTOMCPIO|502|Santa Lucía Cotzumalguapa
+HEC_DEPTOMCPIO|503|La Democracia
+HEC_DEPTOMCPIO|504|Siquinalá
+HEC_DEPTOMCPIO|505|Masagua
+HEC_DEPTOMCPIO|506|Tiquisate
+HEC_DEPTOMCPIO|507|La Gomera
+HEC_DEPTOMCPIO|508|Guanagazapa
+HEC_DEPTOMCPIO|509|San José
+HEC_DEPTOMCPIO|510|Iztapa
+HEC_DEPTOMCPIO|511|Palín
+HEC_DEPTOMCPIO|512|San Vicente Pacaya
+HEC_DEPTOMCPIO|513|Nueva Concepción
+HEC_DEPTOMCPIO|514|Sipacate
+HEC_DEPTOMCPIO|601|Cuilapa
+HEC_DEPTOMCPIO|602|Barberena
+HEC_DEPTOMCPIO|603|Santa Rosa de Lima
+HEC_DEPTOMCPIO|604|Casillas
+HEC_DEPTOMCPIO|605|San Rafael Las Flores
+HEC_DEPTOMCPIO|606|Oratorio
+HEC_DEPTOMCPIO|607|San Juan Tecuaco
+HEC_DEPTOMCPIO|608|Chiquimulilla
+HEC_DEPTOMCPIO|609|Taxisco
+HEC_DEPTOMCPIO|610|Santa María Ixhuatán
+HEC_DEPTOMCPIO|611|Guazacapán
+HEC_DEPTOMCPIO|612|Santa Cruz Naranjo
+HEC_DEPTOMCPIO|613|Pueblo Nuevo Viñas
+HEC_DEPTOMCPIO|614|Nueva Santa Rosa
+HEC_DEPTOMCPIO|701|Sololá
+HEC_DEPTOMCPIO|702|San José Chacayá
+HEC_DEPTOMCPIO|703|Santa María Visitación
+HEC_DEPTOMCPIO|704|Santa Lucía Utatlán
+HEC_DEPTOMCPIO|705|Nahualá
+HEC_DEPTOMCPIO|706|Santa Catarina Ixtahuacán
+HEC_DEPTOMCPIO|707|Santa Clara La Laguna
+HEC_DEPTOMCPIO|708|Concepción
+HEC_DEPTOMCPIO|709|San Andrés Semetabaj
+HEC_DEPTOMCPIO|710|Panajachel
+HEC_DEPTOMCPIO|711|Santa Catarina Palopó
+HEC_DEPTOMCPIO|712|San Antonio Palopó
+HEC_DEPTOMCPIO|713|San Lucas Toliman
+HEC_DEPTOMCPIO|714|Santa Cruz La Laguna
+HEC_DEPTOMCPIO|715|San Pablo La Laguna
+HEC_DEPTOMCPIO|716|San Marcos La Laguna
+HEC_DEPTOMCPIO|717|San Juan La Laguna
+HEC_DEPTOMCPIO|718|San Pedro La Laguna
+HEC_DEPTOMCPIO|719|Santiago Atitlán
+HEC_DEPTOMCPIO|801|Totonicapán
+HEC_DEPTOMCPIO|802|San Cristóbal Totonicapán
+HEC_DEPTOMCPIO|803|San Francisco El Alto
+HEC_DEPTOMCPIO|804|San Andrés Xecul
+HEC_DEPTOMCPIO|805|Momostenango
+HEC_DEPTOMCPIO|806|Santa María Chiquimula
+HEC_DEPTOMCPIO|807|Santa Lucía La Reforma
+HEC_DEPTOMCPIO|808|San Bartolo
+HEC_DEPTOMCPIO|901|Quetzaltenango
+HEC_DEPTOMCPIO|902|Salcajá
+HEC_DEPTOMCPIO|903|Olintepeque
+HEC_DEPTOMCPIO|904|San Carlos Sija
+HEC_DEPTOMCPIO|905|Sibilia
+HEC_DEPTOMCPIO|906|Cabricán
+HEC_DEPTOMCPIO|907|Cajolá
+HEC_DEPTOMCPIO|908|San Miguel Siguilá
+HEC_DEPTOMCPIO|909|Ostuncalco
+HEC_DEPTOMCPIO|910|San Mateo
+HEC_DEPTOMCPIO|911|Concepción Chiquirichapa
+HEC_DEPTOMCPIO|912|San Martín Sacatepéquez
+HEC_DEPTOMCPIO|913|Almolonga
+HEC_DEPTOMCPIO|914|Cantel
+HEC_DEPTOMCPIO|915|Huitán
+HEC_DEPTOMCPIO|916|Zunil
+HEC_DEPTOMCPIO|917|Colomba
+HEC_DEPTOMCPIO|918|San Francisco La Unión
+HEC_DEPTOMCPIO|919|El Palmar
+HEC_DEPTOMCPIO|920|Coatepeque
+HEC_DEPTOMCPIO|921|Génova
+HEC_DEPTOMCPIO|922|Flores Costa Cuca
+HEC_DEPTOMCPIO|923|La Esperanza
+HEC_DEPTOMCPIO|924|Palestina de Los Altos
+HEC_DEPTOMCPIO|1001|Mazatenango
+HEC_DEPTOMCPIO|1002|Cuyotenango
+HEC_DEPTOMCPIO|1003|San Francisco Zapotitlán
+HEC_DEPTOMCPIO|1004|San Bernardino
+HEC_DEPTOMCPIO|1005|San José El Ídolo
+HEC_DEPTOMCPIO|1006|Santo Domingo Suchitepéquez
+HEC_DEPTOMCPIO|1007|San Lorenzo
+HEC_DEPTOMCPIO|1008|Samayac
+HEC_DEPTOMCPIO|1009|San Pablo Jocopilas
+HEC_DEPTOMCPIO|1010|San Antonio Suchitepéquez
+HEC_DEPTOMCPIO|1011|San Miguel Panán
+HEC_DEPTOMCPIO|1012|San Gabriel
+HEC_DEPTOMCPIO|1013|Chicacao
+HEC_DEPTOMCPIO|1014|Patulul
+HEC_DEPTOMCPIO|1015|Santa Bárbara
+HEC_DEPTOMCPIO|1016|San Juan Bautista
+HEC_DEPTOMCPIO|1017|Santo Tomás La Unión
+HEC_DEPTOMCPIO|1018|Zunilito
+HEC_DEPTOMCPIO|1019|Pueblo Nuevo 
+HEC_DEPTOMCPIO|1020|Rio Bravo
+HEC_DEPTOMCPIO|1021|San José La Máquina
+HEC_DEPTOMCPIO|1101|Retalhuleu
+HEC_DEPTOMCPIO|1102|San Sebastián
+HEC_DEPTOMCPIO|1103|Santa Cruz Muluá
+HEC_DEPTOMCPIO|1104|San Martín Zapotitlán
+HEC_DEPTOMCPIO|1105|San Felipe
+HEC_DEPTOMCPIO|1106|San Andrés Villa Seca
+HEC_DEPTOMCPIO|1107|Champerico
+HEC_DEPTOMCPIO|1108|Nuevo San Carlos
+HEC_DEPTOMCPIO|1109|El Asintal
+HEC_DEPTOMCPIO|1201|San Marcos
+HEC_DEPTOMCPIO|1202|San Pedro Sacatepéquez
+HEC_DEPTOMCPIO|1203|San Antonio Sacatepéquez
+HEC_DEPTOMCPIO|1204|Comitancillo
+HEC_DEPTOMCPIO|1205|San Miguel Ixtahuacán
+HEC_DEPTOMCPIO|1206|Concepción Tutuapa
+HEC_DEPTOMCPIO|1207|Tacaná
+HEC_DEPTOMCPIO|1208|Sibinal
+HEC_DEPTOMCPIO|1209|Tajumulco
+HEC_DEPTOMCPIO|1210|Tejutla
+HEC_DEPTOMCPIO|1211|San Rafael Pie de La Cuesta
+HEC_DEPTOMCPIO|1212|Nuevo Progreso
+HEC_DEPTOMCPIO|1213|El Tumbador
+HEC_DEPTOMCPIO|1214|El Rodeo
+HEC_DEPTOMCPIO|1215|Malacatán
+HEC_DEPTOMCPIO|1216|Catarina
+HEC_DEPTOMCPIO|1217|Ayutla
+HEC_DEPTOMCPIO|1218|Ocós
+HEC_DEPTOMCPIO|1219|San Pablo
+HEC_DEPTOMCPIO|1220|El Quetzal
+HEC_DEPTOMCPIO|1221|La Reforma
+HEC_DEPTOMCPIO|1222|Pajapita
+HEC_DEPTOMCPIO|1223|Ixchiguán
+HEC_DEPTOMCPIO|1224|San José Ojetenam
+HEC_DEPTOMCPIO|1225|San Cristóbal Cucho
+HEC_DEPTOMCPIO|1226|Sipacapa
+HEC_DEPTOMCPIO|1227|Esquipulas Palo Gordo
+HEC_DEPTOMCPIO|1228|Rio Blanco
+HEC_DEPTOMCPIO|1229|San Lorenzo
+HEC_DEPTOMCPIO|1230|La Blanca
+HEC_DEPTOMCPIO|1301|Huehuetenango
+HEC_DEPTOMCPIO|1302|Chiantla
+HEC_DEPTOMCPIO|1303|Malacatancito
+HEC_DEPTOMCPIO|1304|Cuilco
+HEC_DEPTOMCPIO|1305|Nentón
+HEC_DEPTOMCPIO|1306|San Pedro Necta
+HEC_DEPTOMCPIO|1307|Jacaltenango
+HEC_DEPTOMCPIO|1308|Soloma
+HEC_DEPTOMCPIO|1309|Ixtahuacán
+HEC_DEPTOMCPIO|1310|Santa Bárbara
+HEC_DEPTOMCPIO|1311|La Libertad
+HEC_DEPTOMCPIO|1312|La Democracia
+HEC_DEPTOMCPIO|1313|San Miguel Acatán
+HEC_DEPTOMCPIO|1314|San Rafael La Independencia
+HEC_DEPTOMCPIO|1315|Todos Santos Cuchumatán
+HEC_DEPTOMCPIO|1316|San Juan Atitán
+HEC_DEPTOMCPIO|1317|Santa Eulalia
+HEC_DEPTOMCPIO|1318|San Mateo Ixtatán
+HEC_DEPTOMCPIO|1319|Colotenango
+HEC_DEPTOMCPIO|1320|San Sebastián Huehuetenango
+HEC_DEPTOMCPIO|1321|Tectitán
+HEC_DEPTOMCPIO|1322|Concepción Huista
+HEC_DEPTOMCPIO|1323|San Juan Ixcoy
+HEC_DEPTOMCPIO|1324|San Antonio Huista
+HEC_DEPTOMCPIO|1325|San Sebastián Coatán
+HEC_DEPTOMCPIO|1326|Barillas
+HEC_DEPTOMCPIO|1327|Aguacatán
+HEC_DEPTOMCPIO|1328|San Rafael Petzal
+HEC_DEPTOMCPIO|1329|San Gaspar Ixchil
+HEC_DEPTOMCPIO|1330|Santiago Chimaltenango
+HEC_DEPTOMCPIO|1331|Santa Ana Huista
+HEC_DEPTOMCPIO|1332|Unión Cantinil
+HEC_DEPTOMCPIO|1333|Petatán
+HEC_DEPTOMCPIO|1401|Santa Cruz del Quiché
+HEC_DEPTOMCPIO|1402|Chiché
+HEC_DEPTOMCPIO|1403|Chinique
+HEC_DEPTOMCPIO|1404|Zacualpa
+HEC_DEPTOMCPIO|1405|Chajul
+HEC_DEPTOMCPIO|1406|Chichicastenango
+HEC_DEPTOMCPIO|1407|Patzité
+HEC_DEPTOMCPIO|1408|San Antonio Ilotenango
+HEC_DEPTOMCPIO|1409|San Pedro Jocopilas
+HEC_DEPTOMCPIO|1410|Cunén
+HEC_DEPTOMCPIO|1411|San Juan Cotzal
+HEC_DEPTOMCPIO|1412|Joyabaj
+HEC_DEPTOMCPIO|1413|Nebaj
+HEC_DEPTOMCPIO|1414|San Andrés Sajcabajá
+HEC_DEPTOMCPIO|1415|Uspantán
+HEC_DEPTOMCPIO|1416|Sacapulas
+HEC_DEPTOMCPIO|1417|San Bartolomé Jocotenango
+HEC_DEPTOMCPIO|1418|Canillá
+HEC_DEPTOMCPIO|1419|Chicamán
+HEC_DEPTOMCPIO|1420|Ixcán
+HEC_DEPTOMCPIO|1421|Pachalum
+HEC_DEPTOMCPIO|1501|Salamá
+HEC_DEPTOMCPIO|1502|San Miguel Chicaj
+HEC_DEPTOMCPIO|1503|Rabinal
+HEC_DEPTOMCPIO|1504|Cubulco
+HEC_DEPTOMCPIO|1505|Granados
+HEC_DEPTOMCPIO|1506|El Chol
+HEC_DEPTOMCPIO|1507|San Jerónimo
+HEC_DEPTOMCPIO|1508|Purulhá
+HEC_DEPTOMCPIO|1601|Cobán
+HEC_DEPTOMCPIO|1602|Santa Cruz Verapaz
+HEC_DEPTOMCPIO|1603|San Cristóbal Verapaz
+HEC_DEPTOMCPIO|1604|Tactic
+HEC_DEPTOMCPIO|1605|Tamahú
+HEC_DEPTOMCPIO|1606|Tucurú
+HEC_DEPTOMCPIO|1607|Panzós
+HEC_DEPTOMCPIO|1608|Senahú
+HEC_DEPTOMCPIO|1609|San Pedro Carchá
+HEC_DEPTOMCPIO|1610|San Juan Chamelco
+HEC_DEPTOMCPIO|1611|Lanquín
+HEC_DEPTOMCPIO|1612|Cahabón
+HEC_DEPTOMCPIO|1613|Chisec
+HEC_DEPTOMCPIO|1614|Chahal
+HEC_DEPTOMCPIO|1615|Fray Bartolomé de Las Casas
+HEC_DEPTOMCPIO|1616|Santa Catalina la Tinta
+HEC_DEPTOMCPIO|1617|Raxruhá
+HEC_DEPTOMCPIO|1701|Flores
+HEC_DEPTOMCPIO|1702|San José
+HEC_DEPTOMCPIO|1703|San Benito
+HEC_DEPTOMCPIO|1704|San Andrés
+HEC_DEPTOMCPIO|1705|La Libertad
+HEC_DEPTOMCPIO|1706|San Francisco
+HEC_DEPTOMCPIO|1707|Santa Ana
+HEC_DEPTOMCPIO|1708|Dolores
+HEC_DEPTOMCPIO|1709|San Luis
+HEC_DEPTOMCPIO|1710|Sayaxché
+HEC_DEPTOMCPIO|1711|Melchor de Mencos
+HEC_DEPTOMCPIO|1712|Poptún
+HEC_DEPTOMCPIO|1713|Las Cruces
+HEC_DEPTOMCPIO|1714|El Chal
+HEC_DEPTOMCPIO|1801|Puerto Barrios
+HEC_DEPTOMCPIO|1802|Livingston
+HEC_DEPTOMCPIO|1803|El Estor
+HEC_DEPTOMCPIO|1804|Morales
+HEC_DEPTOMCPIO|1805|Los Amates
+HEC_DEPTOMCPIO|1901|Zacapa
+HEC_DEPTOMCPIO|1902|Estanzuela
+HEC_DEPTOMCPIO|1903|Río Hondo
+HEC_DEPTOMCPIO|1904|Gualán
+HEC_DEPTOMCPIO|1905|Teculután
+HEC_DEPTOMCPIO|1906|Usumatlán
+HEC_DEPTOMCPIO|1907|Cabañas
+HEC_DEPTOMCPIO|1908|San Diego
+HEC_DEPTOMCPIO|1909|La Unión
+HEC_DEPTOMCPIO|1910|Huité
+HEC_DEPTOMCPIO|1911|San Jorge
+HEC_DEPTOMCPIO|2001|Chiquimula
+HEC_DEPTOMCPIO|2002|San José La Arada
+HEC_DEPTOMCPIO|2003|San Juan Erminta
+HEC_DEPTOMCPIO|2004|Jocotán
+HEC_DEPTOMCPIO|2005|Camotán
+HEC_DEPTOMCPIO|2006|Olopa
+HEC_DEPTOMCPIO|2007|Esquipulas
+HEC_DEPTOMCPIO|2008|Concepción Las Minas
+HEC_DEPTOMCPIO|2009|Quetzaltepeque
+HEC_DEPTOMCPIO|2010|San Jacinto
+HEC_DEPTOMCPIO|2011|Ipala
+HEC_DEPTOMCPIO|2101|Jalapa
+HEC_DEPTOMCPIO|2102|San Pedro Pinula
+HEC_DEPTOMCPIO|2103|San Luis Jilotepeque
+HEC_DEPTOMCPIO|2104|San Manuel Chaparrón
+HEC_DEPTOMCPIO|2105|San Carlos Alzatate
+HEC_DEPTOMCPIO|2106|Monjas
+HEC_DEPTOMCPIO|2107|Mataquescuintla
+HEC_DEPTOMCPIO|2201|Jutiapa
+HEC_DEPTOMCPIO|2202|El Progreso
+HEC_DEPTOMCPIO|2203|Santa Catarina Mita
+HEC_DEPTOMCPIO|2204|Agua Blanca
+HEC_DEPTOMCPIO|2205|Asunción Mita
+HEC_DEPTOMCPIO|2206|Yupiltepeque
+HEC_DEPTOMCPIO|2207|Atescatempa
+HEC_DEPTOMCPIO|2208|Jerez
+HEC_DEPTOMCPIO|2209|El Adelanto
+HEC_DEPTOMCPIO|2210|Zapotitlán
+HEC_DEPTOMCPIO|2211|Comapa
+HEC_DEPTOMCPIO|2212|Jalpatagua
+HEC_DEPTOMCPIO|2213|Conguaco
+HEC_DEPTOMCPIO|2214|Moyuta
+HEC_DEPTOMCPIO|2215|Pasaco
+HEC_DEPTOMCPIO|2216|San José Acatempa
+HEC_DEPTOMCPIO|2217|Quesada
+HEC_DEPTOMCPIO|9999|Ignorado
+HEC_AREA|1|Urbana
+HEC_AREA|2|Rural
+HEC_AREA|9|Ignorado
+HEC_TIPAGRE|1222|Física
+HEC_TIPAGRE|2122|Psicológica
+HEC_TIPAGRE|2212|Sexual
+HEC_TIPAGRE|2221|Patrimonial
+HEC_TIPAGRE|1122|Física - psicológica
+HEC_TIPAGRE|1212|Física - sexual
+HEC_TIPAGRE|1221|Física - patrimonial
+HEC_TIPAGRE|2112|Psicológica - sexual
+HEC_TIPAGRE|2121|Psicológica - patrimonial
+HEC_TIPAGRE|2211|Sexual - patrimonial
+HEC_TIPAGRE|1112|Física - psicológica - sexual
+HEC_TIPAGRE|1121|Física - psicológica - patrimonial
+HEC_TIPAGRE|2111|Psicológica - sexual - patrimonial
+HEC_TIPAGRE|1211|Física - sexual - patrimonial
+HEC_TIPAGRE|1111|Física - psicológica - sexual - patrimonial
+HEC_RECUR_DENUN|1|Si
+HEC_RECUR_DENUN|2|No
+HEC_RECUR_DENUN|9|Ignorado
+INST_DONDE_DENUNCIO|1|Ministerio Público
+INST_DONDE_DENUNCIO|2|Procuraduría General de la Nación
+INST_DONDE_DENUNCIO|3|Policía Nacional Civil
+INST_DONDE_DENUNCIO|4|Organismo Judicial
+INST_DONDE_DENUNCIO|5|Bufetes Populares
+INST_DONDE_DENUNCIO|6|Procuraduría de los Derechos Humanos
+INST_DONDE_DENUNCIO|9|Ignorado
+AGR_SEXO|1|Hombre
+AGR_SEXO|2|Mujer
+AGR_ALFAB|1|Alfabeta
+AGR_ALFAB|2|Analfabeta
+AGR_ALFAB|9|Ignorado
+AGR_EST_CIV|1|Soltero(a) 
+AGR_EST_CIV|2|Casado(a) 
+AGR_EST_CIV|3|Unido(a) 
+AGR_EST_CIV|4|Viudo(a) 
+AGR_EST_CIV|5|Otro
+AGR_EST_CIV|9|Ignorado
+AGR_GRUPET|1|Ladino
+AGR_GRUPET|2|Maya
+AGR_GRUPET|3|Garífuna
+AGR_GRUPET|4|Xinka
+AGR_GRUPET|5|Otro
+AGR_GRUPET|6|No indica
+AGR_GRUPET|9|Ignorado
+AGR_NACIONAL|1|Guatemalteca
+AGR_NACIONAL|2|Extranjera
+AGR_NACIONAL|9|Ignorado
+AGR_TRABAJA|1|Si trabaja por un salario o ingreso
+AGR_TRABAJA|2|No trabaja por un salario o ingreso
+AGR_TRABAJA|9|Ignorado
+AGR_OCUP|1111|Miembros del poder legislativo
+AGR_OCUP|1112|Personal directivo de la administración pública
+AGR_OCUP|1113|Jefes de pequeñas poblaciones
+AGR_OCUP|1114|Dirigentes de organizaciones que presentan un interés especial
+AGR_OCUP|1120|Directores generales y gerentes generales
+AGR_OCUP|1211|Directores financieros
+AGR_OCUP|1212|Directores de recursos humanos
+AGR_OCUP|1213|Directores de políticas y planificación
+AGR_OCUP|1219|Directores de administración y servicios no clasificados bajo otros epígrafes
+AGR_OCUP|1221|Directores de ventas y comercialización
+AGR_OCUP|1222|Directores de publicidad y relaciones públicas
+AGR_OCUP|1223|Directores de investigación y desarrollo
+AGR_OCUP|1311|Directores de producción agropecuaria y silvicultura
+AGR_OCUP|1312|Directores de producción de piscicultura y pesca
+AGR_OCUP|1321|Directores de industrias manufactureras
+AGR_OCUP|1322|Directores de explotaciones de minería
+AGR_OCUP|1323|Directores de empresas de construcción
+AGR_OCUP|1324|Directores de empresas de abastecimiento, distribución y afines
+AGR_OCUP|1330|Directores de servicios de tecnología de la información y las comunicaciones
+AGR_OCUP|1341|Directores de servicios de cuidados infantiles
+AGR_OCUP|1342|Directores de servicios de salud
+AGR_OCUP|1343|Directores de servicios de cuidado de las personas de edad
+AGR_OCUP|1344|Directores de servicios de bienestar social
+AGR_OCUP|1345|Directores de servicios de educación
+AGR_OCUP|1346|Gerentes de sucursales de bancos, de servicios financieros y de seguros
+AGR_OCUP|1349|Directores y gerentes de servicios profesionales no clasificados bajo otros epígrafes
+AGR_OCUP|1411|Gerentes de hoteles
+AGR_OCUP|1412|Gerentes de restaurantes
+AGR_OCUP|1420|Gerentes de comercios al por mayor y al por menor
+AGR_OCUP|1431|Gerentes de centros deportivos, de esparcimiento y culturales
+AGR_OCUP|1439|Gerentes de servicios no clasificados bajo otros epígrafes
+AGR_OCUP|2111|Físicos y astrónomos
+AGR_OCUP|2112|Meteorólogos
+AGR_OCUP|2113|Químicos
+AGR_OCUP|2114|Geólogos y geofísicos
+AGR_OCUP|2120|Matemáticos, actuarios y estadísticos
+AGR_OCUP|2131|Biólogos, botánicos, zoólogos y afines
+AGR_OCUP|2132|Agrónomos y afines
+AGR_OCUP|2133|Profesionales de la protección medioambiental
+AGR_OCUP|2141|Ingenieros industriales y de producción
+AGR_OCUP|2142|Ingenieros civiles
+AGR_OCUP|2143|Ingenieros medioambientales
+AGR_OCUP|2144|Ingenieros mecánicos
+AGR_OCUP|2145|Ingenieros químicos
+AGR_OCUP|2146|Ingenieros de minas, metalúrgicos y afines
+AGR_OCUP|2149|Ingenieros no clasificados bajo otros epígrafes
+AGR_OCUP|2151|Ingenieros electricistas
+AGR_OCUP|2152|Ingenieros electrónicos
+AGR_OCUP|2153|Ingenieros en telecomunicaciones
+AGR_OCUP|2161|Arquitectos
+AGR_OCUP|2162|Arquitectos paisajistas
+AGR_OCUP|2163|Diseñadores de productos y de prendas
+AGR_OCUP|2164|Urbanistas e ingenieros de tránsito
+AGR_OCUP|2165|Cartógrafos y agrimensores
+AGR_OCUP|2166|Diseñadores gráficos y multimedia
+AGR_OCUP|2211|Médicos generales
+AGR_OCUP|2212|Médicos especialistas
+AGR_OCUP|2221|Profesionales de enfermería
+AGR_OCUP|2222|Profesionales de partería
+AGR_OCUP|2230|Profesionales de medicina tradicional y alternativa
+AGR_OCUP|2240|Practicantes paramédicos
+AGR_OCUP|2250|Veterinarios
+AGR_OCUP|2261|Dentistas
+AGR_OCUP|2262|Farmacéuticos
+AGR_OCUP|2263|Profesionales de la salud y la higiene laboral y ambiental
+AGR_OCUP|2264|Fisioterapeutas
+AGR_OCUP|2265|Dietistas y nutricionistas
+AGR_OCUP|2266|Audiólogos y logopedas
+AGR_OCUP|2267|Optometristas
+AGR_OCUP|2269|Profesionales de la salud no clasificados bajo otros epígrafes
+AGR_OCUP|2310|Profesores de universidades y de la enseñanza superior
+AGR_OCUP|2320|Profesores de formación profesional
+AGR_OCUP|2330|Profesores de enseñanza secundaria
+AGR_OCUP|2341|Maestros de enseñanza primaria
+AGR_OCUP|2342|Maestros preescolares
+AGR_OCUP|2351| Especialistas en métodos pedagógicos
+AGR_OCUP|2352|Educadores para necesidades especiales
+AGR_OCUP|2353|Otros profesores de idiomas
+AGR_OCUP|2354|Otros profesores de música
+AGR_OCUP|2355|Otros profesores de artes
+AGR_OCUP|2356|Instructores en tecnología de la información
+AGR_OCUP|2359|Profesionales de la enseñanza no clasificados bajo otros epígrafes
+AGR_OCUP|2411|Contables
+AGR_OCUP|2412|Asesores financieros y en inversiones
+AGR_OCUP|2413|Analistas financieros
+AGR_OCUP|2421|Analistas de gestión y organización
+AGR_OCUP|2422|Especialistas en políticas de administración
+AGR_OCUP|2423|Especialistas en políticas y servicios de personal y afines
+AGR_OCUP|2424|Especialistas en formación del personal
+AGR_OCUP|2431|Profesionales de la publicidad y la comercialización
+AGR_OCUP|2432|Profesionales de relaciones públicas
+AGR_OCUP|2433|Profesionales de ventas técnicas y médicas (excluyendo la TIC)
+AGR_OCUP|2434|Profesionales de ventas de tecnología de la información y las comunicaciones
+AGR_OCUP|2511|Analistas de sistemas
+AGR_OCUP|2512|Desarrolladores de software
+AGR_OCUP|2513|Desarrolladores web y multimedia
+AGR_OCUP|2514|Programadores de aplicaciones
+AGR_OCUP|2519|Desarrolladores y analistas de software y multimedia y analistas no clasificados bajo otros epígrafes
+AGR_OCUP|2521|Diseñadores y administradores de bases de datos
+AGR_OCUP|2522|Administradores de sistemas
+AGR_OCUP|2523|Profesionales en redes de computadores
+AGR_OCUP|2529|Especialistas en bases de datos y en redes de computadores no clasificados bajo otros epígrafes
+AGR_OCUP|2611|Abogados
+AGR_OCUP|2612|Jueces
+AGR_OCUP|2619|Profesionales en derecho no clasificados bajo otros epígrafes
+AGR_OCUP|2621|Archivistas y curadores de museos
+AGR_OCUP|2622|Bibliotecarios, documentalistas y afines
+AGR_OCUP|2631|Economistas
+AGR_OCUP|2632|Sociólogos, antropólogos y afines
+AGR_OCUP|2633|Filósofos, historiadores y especialistas en ciencias políticas
+AGR_OCUP|2634| Psicólogos
+AGR_OCUP|2635|Profesionales del trabajo social
+AGR_OCUP|2636|Profesionales religiosos
+AGR_OCUP|2641|Autores y otros escritores
+AGR_OCUP|2642|Periodistas
+AGR_OCUP|2643|Traductores, intérpretes y lingüistas
+AGR_OCUP|2651| Artistas de artes plásticas
+AGR_OCUP|2652|Músicos, cantantes y compositores
+AGR_OCUP|2653|Bailarines y coreógrafos
+AGR_OCUP|2654|Directores de cine, de teatro y afines
+AGR_OCUP|2655|Actores
+AGR_OCUP|2656|Locutores de radio, televisión y otros medios de comunicación
+AGR_OCUP|2659|Artistas creativos e interpretativos no clasificados bajo otros epígrafes
+AGR_OCUP|3111|Técnicos en ciencias físicas y químicas
+AGR_OCUP|3112|Técnicos en ingeniería civil
+AGR_OCUP|3113|Electrotécnicos
+AGR_OCUP|3114|Técnicos en electrónica
+AGR_OCUP|3115|Técnicos en ingeniería mecánica
+AGR_OCUP|3116|Técnicos en química industrial
+AGR_OCUP|3117|Técnicos en ingeniería de minas y metalurgia
+AGR_OCUP|3118|Delineantes y dibujantes técnicos
+AGR_OCUP|3119|Técnicos en ciencias físicas y en ingeniería no clasificados bajo otros epígrafes
+AGR_OCUP|3121|Supervisores en ingeniería de minas
+AGR_OCUP|3122|Supervisores de industrias manufactureras
+AGR_OCUP|3123|Supervisores de la construcción
+AGR_OCUP|3131|Operadores de instalaciones de producción de energía
+AGR_OCUP|3132|Operadores de incineradores, instalaciones de tratamiento de agua y afines
+AGR_OCUP|3133|Controladores de instalaciones de procesamiento de productos químicos
+AGR_OCUP|3134|Operadores de instalaciones de refinación de petróleo y gas natural
+AGR_OCUP|3135|Controladores de procesos de producción de metales
+AGR_OCUP|3139|Técnicos en control de procesos no clasificados bajo otros epígrafes
+AGR_OCUP|3141|Técnicos en ciencias biológicas (excluyendo la medicina)
+AGR_OCUP|3142|Técnicos agropecuarios
+AGR_OCUP|3143|Técnicos forestales
+AGR_OCUP|3151|Oficiales maquinistas en navegación
+AGR_OCUP|3152|Capitanes, oficiales de cubierta y prácticos
+AGR_OCUP|3153|Pilotos de aviación y afines
+AGR_OCUP|3154|Controladores de tráfico aéreo
+AGR_OCUP|3155|Técnicos en seguridad aeronáutica
+AGR_OCUP|3211|Técnicos en aparatos de diagnóstico y tratamiento médico
+AGR_OCUP|3212|Técnicos de laboratorios médicos
+AGR_OCUP|3213|Técnicos y asistentes farmacéuticos
+AGR_OCUP|3214|Técnicos de prótesis médicas y dentales
+AGR_OCUP|3221|Profesionales de nivel medio de enfermería
+AGR_OCUP|3222|Profesionales de nivel medio de partería
+AGR_OCUP|3230|Profesionales de nivel medio de medicina tradicional y alternativa
+AGR_OCUP|3240|Técnicos y asistentes veterinarios
+AGR_OCUP|3251|Dentistas auxiliares y ayudantes de odontología
+AGR_OCUP|3252|Técnicos en documentación sanitaria
+AGR_OCUP|3253|Trabajadores comunitarios de la salud
+AGR_OCUP|3254|Técnicos en optometría y ópticos
+AGR_OCUP|3255|Técnicos y asistentes fisioterapeutas
+AGR_OCUP|3256|Practicantes y asistentes médicos
+AGR_OCUP|3257|Inspectores de la salud laboral, medioambiental y afines
+AGR_OCUP|3258|Ayudantes de ambulancias
+AGR_OCUP|3259|Profesionales de la salud de nivel medio no clasificados bajo otros epígrafes
+AGR_OCUP|3311|Agentes de bolsa, cambio y otros servicios financieros
+AGR_OCUP|3312|Oficiales de préstamos y créditos
+AGR_OCUP|3313|Tenedores de libros
+AGR_OCUP|3314|Profesionales de nivel medio de servicios estadísticos, matemáticos y afines
+AGR_OCUP|3315|Tasadores
+AGR_OCUP|3321|Agentes de seguros
+AGR_OCUP|3322|Representantes comerciales
+AGR_OCUP|3323|Agentes de compras
+AGR_OCUP|3324|Agentes de compras y consignatarios
+AGR_OCUP|3331|Declarantes o gestores de aduana
+AGR_OCUP|3332|Organizadores de conferencias y eventos
+AGR_OCUP|3333|Agentes de empleo y contratistas de mano de obra
+AGR_OCUP|3334|Agentes inmobiliarios
+AGR_OCUP|3339|Agentes de servicios comerciales no clasificados bajo otros epígrafes
+AGR_OCUP|3341|Supervisores de secretaría
+AGR_OCUP|3342|Secretarios jurídicos
+AGR_OCUP|3343|Secretarios administrativos y ejecutivos
+AGR_OCUP|3344|Secretarios médicos
+AGR_OCUP|3351|Agentes de aduana e inspectores de fronteras
+AGR_OCUP|3352|Agentes de administración tributaria
+AGR_OCUP|3353|Agentes de servicios de seguridad social
+AGR_OCUP|3354|Agentes de servicios de expedición de licencias y permisos
+AGR_OCUP|3355|Inspectores de policía y detectives
+AGR_OCUP|3359|Agentes de la administración pública para la aplicación de la ley y afines no clasificados bajo otros epígrafes
+AGR_OCUP|3411|Profesionales de nivel medio del derecho y servicios legales y afines
+AGR_OCUP|3412|Trabajadores y asistentes sociales de nivel medio
+AGR_OCUP|3413|Auxiliares laicos de las religiones
+AGR_OCUP|3421|Atletas y deportistas
+AGR_OCUP|3422|Entrenadores, instructores y árbitros de actividades deportivas
+AGR_OCUP|3423|Instructores de educación física y actividades recreativas
+AGR_OCUP|3431|Fotógrafos
+AGR_OCUP|3432|Diseñadores y decoradores de interior
+AGR_OCUP|3433|Técnicos en galerías de arte, museos y bibliotecas
+AGR_OCUP|3434|Chefs
+AGR_OCUP|3435|Otros profesionales de nivel medio en actividades culturales y artistas
+AGR_OCUP|3511|Técnicos en operaciones de tecnología de la información y las comunicaciones
+AGR_OCUP|3512|Técnicos en asistencia al usuario de tecnología de la información y las comunicaciones
+AGR_OCUP|3513|Técnicos en redes y sistemas de computadores
+AGR_OCUP|3514|Técnicos de la web
+AGR_OCUP|3521|Técnicos de radiodifusión y grabación audio visual
+AGR_OCUP|3522|Técnicos de ingeniería de las telecomunicaciones
+AGR_OCUP|4110|Oficinistas generales
+AGR_OCUP|4120|Secretarios (general)
+AGR_OCUP|4131|Operadores de máquinas de procesamiento de texto y mecanógrafos
+AGR_OCUP|4132|Grabadores de datos
+AGR_OCUP|4211|Cajeros de bancos y afines
+AGR_OCUP|4212|Receptores de apuestas y afines
+AGR_OCUP|4213|Prestamistas
+AGR_OCUP|4214|Cobradores y afines
+AGR_OCUP|4221|Empleados de agencias de viajes
+AGR_OCUP|4222|Empleados de centros de llamadas
+AGR_OCUP|4223|Telefonistas
+AGR_OCUP|4224|Recepcionistas de hoteles
+AGR_OCUP|4225|Empleados de ventanillas de informaciones
+AGR_OCUP|4226|Recepcionistas (general)
+AGR_OCUP|4227|Entrevistadores de encuestas y de investigaciones de mercados
+AGR_OCUP|4229|Empleados de servicios de información al cliente no clasificados bajo otros epígrafes
+AGR_OCUP|4311|Empleados de contabilidad y cálculo de costos
+AGR_OCUP|4312|Empleados de servicios estadísticos, financieros y de seguros
+AGR_OCUP|4313|Empleados encargados de las nóminas
+AGR_OCUP|4321|Empleados de control de abastecimientos e inventario
+AGR_OCUP|4322|Empleados de servicios de apoyo a la producción
+AGR_OCUP|4323|Empleados de servicios de transporte
+AGR_OCUP|4411|Empleados de bibliotecas
+AGR_OCUP|4412|Empleados de servicios de correos
+AGR_OCUP|4413|Codificadores de datos, correctores de pruebas de imprenta y afines
+AGR_OCUP|4414|Escribientes públicos y afines
+AGR_OCUP|4415|Empleados de archivos
+AGR_OCUP|4416|Empleados del servicio de personal
+AGR_OCUP|4419|Personal de apoyo administrativo no clasificado bajo otros epígrafes
+AGR_OCUP|5111|Auxiliares de servicio de abordo
+AGR_OCUP|5112|Revisores y cobradores de los transportes públicos
+AGR_OCUP|5113|Guías de turismo
+AGR_OCUP|5120|Cocineros
+AGR_OCUP|5131|Camareros de mesas
+AGR_OCUP|5132|Camareros de barra
+AGR_OCUP|5141|Peluqueros
+AGR_OCUP|5142|Especialistas en tratamientos de belleza y afines
+AGR_OCUP|5151|Supervisores de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos
+AGR_OCUP|5152|Ecónomos y mayordomos domésticos
+AGR_OCUP|5153|Conserjes
+AGR_OCUP|5161|Astrólogos, adivinadores y afines
+AGR_OCUP|5162|Acompañantes y ayudantes de cámara
+AGR_OCUP|5163|Personal de pompas fúnebres y embalsamadores
+AGR_OCUP|5164|Cuidadores de animales
+AGR_OCUP|5165|Instructores de autoescuela
+AGR_OCUP|5169|Trabajadores de servicios personales no clasificados bajo otros epígrafes
+AGR_OCUP|5211|Vendedores de quioscos y de puestos de mercado
+AGR_OCUP|5212|Vendedores ambulantes de productos comestibles
+AGR_OCUP|5221|Comerciantes de tiendas
+AGR_OCUP|5222|Supervisores de tiendas y almacenes
+AGR_OCUP|5223|Asistentes de venta de tiendas y almacenes
+AGR_OCUP|5230|Cajeros y expendedores de billetes
+AGR_OCUP|5241|Modelos de moda, arte y publicidad
+AGR_OCUP|5242|Demostradores de tiendas
+AGR_OCUP|5243|Vendedores puerta a puerta
+AGR_OCUP|5244|Vendedores por teléfono
+AGR_OCUP|5245|Expendedores de gasolineras
+AGR_OCUP|5246|Vendedores de comidas al mostrador
+AGR_OCUP|5249|Vendedores no clasificados bajo otros epígrafes
+AGR_OCUP|5311|Cuidadores de niños
+AGR_OCUP|5312|Auxiliares de maestros
+AGR_OCUP|5321|Trabajadores de los cuidados personales en instituciones
+AGR_OCUP|5322|Trabajadores de los cuidados personales a domicilio
+AGR_OCUP|5329|Trabajadores de los cuidados personales en servicios de salud no clasificados bajo otros epígrafes
+AGR_OCUP|5411|Bomberos
+AGR_OCUP|5412|Policías
+AGR_OCUP|5413|Guardianes de prisión
+AGR_OCUP|5414|Guardias de protección
+AGR_OCUP|5419|Personal de los servicios de protección no clasificados bajo otros epígrafes
+AGR_OCUP|6111|Agricultores y trabajadores calificados de cultivos extensivos
+AGR_OCUP|6112|Agricultores y trabajadores calificados de plantaciones de árboles y arbustos
+AGR_OCUP|6113|Agricultores y trabajadores calificados de huertas, invernaderos, viveros y jardines
+AGR_OCUP|6114|Agricultores y trabajadores calificados de cultivos mixtos 
+AGR_OCUP|6121|Criadores de ganado
+AGR_OCUP|6122|Avicultores y trabajadores calificados de la avicultura
+AGR_OCUP|6123|Apicultores y sericultores y trabajadores calificados de la apicultura y la sericultura
+AGR_OCUP|6129|Criadores y trabajadores pecuarios calificados de la cría de animales no clasificados bajo otros epígrafes
+AGR_OCUP|6130|Productores y trabajadores calificados de explotaciones agropecuarias mixtas cuya producción se destina al mercado
+AGR_OCUP|6210|Trabajadores forestales calificados y afines
+AGR_OCUP|6221|Trabajadores de explotaciones de acuicultura
+AGR_OCUP|6222|Pescadores de agua dulce y en aguas costeras
+AGR_OCUP|6223|Pescadores de alta mar
+AGR_OCUP|6224|Cazadores y tramperos
+AGR_OCUP|6310|Trabajadores agrícolas de subsistencia
+AGR_OCUP|6320|Trabajadores pecuarios de subsistencia
+AGR_OCUP|6330|Trabajadores agropecuarios de subsistencia
+AGR_OCUP|6340|Pescadores, cazadores, tramperos y recolectores de subsistencia
+AGR_OCUP|7111|Constructores de casas
+AGR_OCUP|7112|Albañiles
+AGR_OCUP|7113|Mamposteros, tronzadores, labrantes y grabadores de piedra
+AGR_OCUP|7114|Operarios en cemento armado, enfoscadores y afines
+AGR_OCUP|7115|Carpinteros de armar y de obra blanca
+AGR_OCUP|7119|Oficiales y operarios de la construcción (obra gruesa) y afines no clasificados bajo otros epígrafes
+AGR_OCUP|7121|Techadores
+AGR_OCUP|7122|Parqueteros y colocadores de suelos
+AGR_OCUP|7123|Revocadores
+AGR_OCUP|7124|Instaladores de material aislante y de insonorización
+AGR_OCUP|7125|Cristaleros
+AGR_OCUP|7126|Fontaneros e instaladores de tuberías
+AGR_OCUP|7127|Mecánicos-montadores de instalaciones de refrigeración y climatización
+AGR_OCUP|7131|Pintores y empapeladores
+AGR_OCUP|7132|Barnizadores y afines
+AGR_OCUP|7133|Limpiadores de fachadas y deshollinadores
+AGR_OCUP|7211|Moldeadores y macheros
+AGR_OCUP|7212|Soldadores y oxicortadores
+AGR_OCUP|7213|Chapistas y caldereros
+AGR_OCUP|7214|Montadores de estructuras metálicas
+AGR_OCUP|7215|Aparejadores y empalmadores de cables
+AGR_OCUP|7221|Herreros y forjadores
+AGR_OCUP|7222|Herramentistas y afines
+AGR_OCUP|7223|Reguladores y operadores de máquinas herramientas
+AGR_OCUP|7224|Pulidores de metales y afiladores de herramientas
+AGR_OCUP|7231|Mecánicos y reparadores de vehículos de motor
+AGR_OCUP|7232|Mecánicos y reparadores de motores de avión
+AGR_OCUP|7233|Mecánicos y reparadores de máquinas agrícolas e industriales
+AGR_OCUP|7234|Reparadores de bicicletas y afines
+AGR_OCUP|7311|Mecánicos y reparadores de instrumentos de precisión
+AGR_OCUP|7312|Fabricantes y afinadores de instrumentos musicales
+AGR_OCUP|7313|Joyeros, orfebres y plateros
+AGR_OCUP|7314|Alfareros y afines (barro, arcilla y abrasivos)
+AGR_OCUP|7315|Sopladores, modeladores, laminadores, cortadores y pulidores de vidrio
+AGR_OCUP|7316|Redactores de carteles, pintores decorativos y grabadores
+AGR_OCUP|7317|Artesanos en madera, cestería y materiales similares
+AGR_OCUP|7318|Artesanos de los tejidos, el cuero y materiales similares
+AGR_OCUP|7319|Artesanos no clasificados bajo otros epígrafes
+AGR_OCUP|7321|Cajistas, tipógrafos y afines
+AGR_OCUP|7322|Impresores
+AGR_OCUP|7323|Encuadernadores y afines
+AGR_OCUP|7411|Electricistas de obras y afines
+AGR_OCUP|7412|Mecánicos y ajustadores electricistas
+AGR_OCUP|7413|Instaladores y reparadores de líneas eléctricas
+AGR_OCUP|7421|Mecánicos y reparadores en electrónica
+AGR_OCUP|7422|Instaladores y reparadores en tecnología de la información y las comunicaciones
+AGR_OCUP|7511|Carniceros, pescaderos y afines
+AGR_OCUP|7512|Panaderos, pasteleros y confiteros
+AGR_OCUP|7513|Operarios de la elaboración de productos lácteos
+AGR_OCUP|7514|Operarios de la conservación de frutas, legumbres, verduras y afines
+AGR_OCUP|7515|Catadores y clasificadores de alimentos y bebidas
+AGR_OCUP|7516|Preparadores y elaboradores de tabaco y sus productos
+AGR_OCUP|7521|Operarios del tratamiento de la madera
+AGR_OCUP|7522|Ebanistas y afines
+AGR_OCUP|7523|Reguladores y operadores de máquinas de labrar madera
+AGR_OCUP|7531|Sastres, modistos, peleteros y sombrereros
+AGR_OCUP|7532|Patronistas y cortadores de tela y afines
+AGR_OCUP|7533|Costureros, bordadores y afines
+AGR_OCUP|7534|Tapiceros, colchoneros y afines
+AGR_OCUP|7535|Apelambradores, pellejeros y curtidores
+AGR_OCUP|7536|Zapateros y afines
+AGR_OCUP|7541|Buzos
+AGR_OCUP|7542|Dinamiteros y pegadores
+AGR_OCUP|7543|Clasificadores y probadores de productos (excluyendo alimentos y bebidas)
+AGR_OCUP|7544|Fumigadores y otros controladores de plagas y malas hierbas
+AGR_OCUP|7549|Oficiales, operarios y artesanos de artes mecánicas y de otros oficios no clasificados bajo otros epígrafes
+AGR_OCUP|8111|Mineros y operadores de instalaciones mineras
+AGR_OCUP|8112|Operadores de instalaciones de procesamiento de minerales y rocas
+AGR_OCUP|8113|Perforadores y sondistas de pozos y afines
+AGR_OCUP|8114|Operadores de máquinas para fabricar cemento y otros productos minerales
+AGR_OCUP|8121|Operadores de instalaciones de procesamiento de metales
+AGR_OCUP|8122|Operadores de máquinas pulidoras, galvanizadoras y recubridoras  de metales
+AGR_OCUP|8131|Operadores de plantas y máquinas de productos químicos
+AGR_OCUP|8132|Operadores de máquinas para fabricar productos fotográficos
+AGR_OCUP|8141|Operadores de máquinas para fabricar productos de caucho
+AGR_OCUP|8142|Operadores de máquinas para fabricar productos de material plástico
+AGR_OCUP|8143|Operadores de máquinas para fabricar productos de papel
+AGR_OCUP|8151|Operadores de máquinas de preparación de fibras, hilado y devanado
+AGR_OCUP|8152|Operadores de telares y otras máquinas tejedoras
+AGR_OCUP|8153|Operadores de máquinas de coser
+AGR_OCUP|8154|Operadores de máquinas de blanqueamiento, teñido y limpieza de tejidos
+AGR_OCUP|8155|Operadores de máquinas de tratamiento de pieles y cueros
+AGR_OCUP|8156|Operadores de máquinas para la fabricación de calzado y afines
+AGR_OCUP|8157|Operadores de máquinas lavarropas
+AGR_OCUP|8159|Operadores de máquinas para fabricar productos textiles y artículos de piel y cuero no clasificados bajo otros epígrafes
+AGR_OCUP|8160|Operadores de máquinas para elaborar alimentos y productos afines
+AGR_OCUP|8171|Operadores de instalaciones para la preparación de pasta para papel y papel
+AGR_OCUP|8172|Operadores de instalaciones de procesamiento de la madera
+AGR_OCUP|8181|Operadores de instalaciones de vidriería y cerámica
+AGR_OCUP|8182|Operadores de máquinas de vapor y calderas
+AGR_OCUP|8183|Operadores de máquinas de embalaje, embotellamiento y etiquetado
+AGR_OCUP|8189|Operadores de máquinas y de instalaciones fijas no clasificados bajo otros epígrafes
+AGR_OCUP|8211|Ensambladores de maquinaria mecánica
+AGR_OCUP|8212|Ensambladores de equipos eléctricos y electrónicos
+AGR_OCUP|8219|Ensambladores no clasificados bajo otros epígrafes
+AGR_OCUP|8311|Maquinistas de locomotoras
+AGR_OCUP|8312|Guardafrenos, guardagujas y agentes de maniobras
+AGR_OCUP|8321|Conductores de motocicletas
+AGR_OCUP|8322|Conductores de automóviles, taxis y camionetas
+AGR_OCUP|8331|Conductores de autobuses y tranvías
+AGR_OCUP|8332|Conductores de camiones pesados
+AGR_OCUP|8341|Operadores de maquinaria agrícola y forestal móvil
+AGR_OCUP|8342|Operadores de máquinas de movimiento de tierras y afines
+AGR_OCUP|8343|Operadores de grúas, aparatos elevadores y afines
+AGR_OCUP|8344|Operadores de autoelevadoras
+AGR_OCUP|8350|Marineros de cubierta y afines
+AGR_OCUP|9111|Limpiadores y asistentes domésticos
+AGR_OCUP|9112|Limpiadores y asistentes de oficinas, hoteles y otros establecimientos
+AGR_OCUP|9113|Personal doméstico
+AGR_OCUP|9121|Lavanderos y planchadores manuales
+AGR_OCUP|9122|Lavadores de vehículos
+AGR_OCUP|9123|Lavadores de ventanas
+AGR_OCUP|9129|Otro personal de limpieza
+AGR_OCUP|9211|Peones de explotaciones agrícolas
+AGR_OCUP|9212|Peones de explotaciones ganaderas
+AGR_OCUP|9213|Peones de explotaciones de cultivos mixtos y ganaderos
+AGR_OCUP|9214|Peones de jardinería y horticultura
+AGR_OCUP|9215|Peones forestales
+AGR_OCUP|9216|Peones de pesca y acuicultura
+AGR_OCUP|9311|Peones de minas y canteras
+AGR_OCUP|9312|Peones de obras públicas y mantenimiento
+AGR_OCUP|9313|Peones de la construcción de edificios
+AGR_OCUP|9321|Empacadores manuales
+AGR_OCUP|9329|Peones de la industria manufacturera no clasificados bajo otros epígrafes
+AGR_OCUP|9331|Conductores de vehículos accionados a pedal o a brazo
+AGR_OCUP|9332|Conductores de vehículos y máquinas de tracción animal
+AGR_OCUP|9333|Peones de carga
+AGR_OCUP|9334|Reponedores de estanterías
+AGR_OCUP|9411|Cocineros de comidas rápidas
+AGR_OCUP|9412|Ayudantes de cocina
+AGR_OCUP|9510|Trabajadores ambulantes de servicios y afines
+AGR_OCUP|9520|Vendedores ambulantes (excluyendo de comida)
+AGR_OCUP|9611|Recolectores de basura y material reciclable
+AGR_OCUP|9612|Clasificadores de desechos
+AGR_OCUP|9613|Barrenderos y afines
+AGR_OCUP|9621|Mensajeros, mandaderos, maleteros y repartidores
+AGR_OCUP|9622|Personas que realizan trabajos varios
+AGR_OCUP|9623|Recolectores de dinero en aparatos de venta automática y lectores de medidores
+AGR_OCUP|9624|Acarreadores de agua y recolectores de leña
+AGR_OCUP|9629|Ocupaciones elementales no clasificadas bajo otros epígrafes
+AGR_OCUP|110|Oficiales de las fuerzas armadas
+AGR_OCUP|210|Suboficiales de las fuerzas armadas
+AGR_OCUP|310|Otros miembros de las fuerzas armadas
+AGR_OCUP|9998|Ocupaciones no especificadas en las anteriores
+AGR_OCUP|9999|Ocupación ignorada
+AGR_DEDICA|1|Quehaceres del hogar
+AGR_DEDICA|2|Vive de su renta o jubilación 
+AGR_DEDICA|3|Estudiar
+AGR_DEDICA|4|Desempleado
+AGR_DEDICA|6|Otro
+AGR_DEDICA|9|Ignorado
+INST_DENUN_HECHO|1|Ministerio Público
+INST_DENUN_HECHO|2|Procuraduría General de la Nación
+INST_DENUN_HECHO|3|Policía Nacional Civil
+INST_DENUN_HECHO|4|Organismo Judicial
+INST_DENUN_HECHO|5|Bufetes Populares
+INST_DENUN_HECHO|6|Procuraduría de los Derechos Humanos
+ORGANISMO_JURISDICCIONAL|1|Juzgados de Paz
+ORGANISMO_JURISDICCIONAL|2|Juzgados de Paz Comunitarios
+ORGANISMO_JURISDICCIONAL|3|Juzgados de Paz Penal 
+ORGANISMO_JURISDICCIONAL|4|Juzgado de Paz Penal de Conocimiento a Prevención de Delitos de Narcotráfico, Defraudación y Contrabando Aduanero, Violencia Sexual, Explotación y Trata de Personas 
+ORGANISMO_JURISDICCIONAL|5|Juzgados de Paz Penal de Turno/24horas
+ORGANISMO_JURISDICCIONAL|6|Juzgados de Paz Móvil
+ORGANISMO_JURISDICCIONAL|7|Juzgado de Paz con Competencia Específica para la Protección en Materia de Violencia Intrafamiliar, y de Niñez y Adolescencia Amenazada o Violada en sus Derechos (de turno)
+ORGANISMO_JURISDICCIONAL|8|Juzgados de Primera Instancia Penal, Narcoactividad y Delitos contra el Ambiente
+ORGANISMO_JURISDICCIONAL|9|Juzgados de Primera Instancia Penal, Narcoactividad y Delitos contra el Ambiente de Turno/24 horas
+ORGANISMO_JURISDICCIONAL|10|Juzgado de Turno de Primera Instancia Penal de Delitos de Femicidio y otras formas de  Violencia contra la contra la Mujer y Violencia Sexual, Explotación y Trata de Personas
+ORGANISMO_JURISDICCIONAL|11|Juzgados de Primera Instancia Penal de Delitos de Femicidio y otras formas de Violencia contra la Mujer
+ORGANISMO_JURISDICCIONAL|12|Tribunales de Sentencia Penal, Narcoactividad y Delitos contra el Ambiente
+ORGANISMO_JURISDICCIONAL|13|Tribunales de Sentencia Penal de Delitos de Femicidio y otras formas de Violencia en contra de la Mujer
+ORGANISMO_JURISDICCIONAL|14|Juzgados de Primera Instancia Ramo Mixto
+ORGANISMO_JURISDICCIONAL|15|Juzgados de Primera Instancia de Familia
+ORGANISMO_JURISDICCIONAL|16|Juzgados de Adolescentes en Conflicto con la Ley Penal
+CONDUCENTE|1|Si
+CONDUCENTE|2|No
+CONDUCENTE|9|Ignorado
+LEY_APLICABLE|1|Ley VIF ó Decreto 97-96
+LEY_APLICABLE|2|Ley VCM ó Decreto 22-2008
+LEY_APLICABLE|3|Ambas leyes (VIF y VCM)
+LEY_APLICABLE|4|Código Penal ó Decreto 17-73
+LEY_APLICABLE|5|Otra
+LEY_APLICABLE|6|Ley VIF y Código Penal 
+LEY_APLICABLE|9|Ignorado
+MEDIDAS_SEGURIDAD|1|Medidas otorgadas
+MEDIDAS_SEGURIDAD|2|Medidas no otorgadas
+MEDIDAS_SEGURIDAD|9|Ignorado
+ORGANISMO_REMITE|1|Juzgados de Paz
+ORGANISMO_REMITE|2|Juzgados de Paz Comunitarios
+ORGANISMO_REMITE|3|Juzgados de Paz Penal 
+ORGANISMO_REMITE|4|Juzgado de Paz Penal de Conocimiento a Prevención de Delitos de Narcotráfico, Defraudación y Contrabando Aduanero, Violencia Sexual, Explotación y Trata de Personas 
+ORGANISMO_REMITE|5|Juzgados de Paz Penal de Turno/24horas
+ORGANISMO_REMITE|6|Juzgados de Paz Móvil
+ORGANISMO_REMITE|7|Juzgado de Paz con Competencia Específica para la Protección en Materia de Violencia Intrafamiliar, y de Niñez y Adolescencia Amenazada o Violada en sus Derechos (de turno)
+ORGANISMO_REMITE|8|Juzgados de Primera Instancia Penal, Narcoactividad y Delitos contra el Ambiente
+ORGANISMO_REMITE|9|Juzgados de Primera Instancia Penal, Narcoactividad y Delitos contra el Ambiente de Turno/24 horas
+ORGANISMO_REMITE|10|Juzgado de Turno de Primera Instancia Penal de Delitos de Femicidio y otras formas de  Violencia contra la contra la Mujer y Violencia Sexual, Explotación y Trata de Personas
+ORGANISMO_REMITE|11|Juzgados de Primera Instancia Penal de Delitos de Femicidio y otras formas de Violencia en contra de la Mujer
+ORGANISMO_REMITE|12|Tribunales de Sentencia Penal, Narcoactividad y Delitos contra el Ambiente
+ORGANISMO_REMITE|13|Tribunales de Sentencia Penal de Delitos de Femicidio y otras formas de Violencia en contra de la Mujer
+ORGANISMO_REMITE|14|Juzgados de Primera Instancia Ramo Mixto
+ORGANISMO_REMITE|15|Juzgados de Primera Instancia de Familia
+ORGANISMO_REMITE|16|Juzgados de Adolescentes en Conflicto con la Ley Penal
+ORGANISMO_REMITE|17|Ministerio Público (como órgano estatal)
+ORGANISMO_REMITE|18|Este mismo órgano
+ORGANISMO_REMITE|99|Ignorado
