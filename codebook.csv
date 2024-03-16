@@ -45,4 +45,4 @@ AGR_OTROS_HOM|Cuantitativa|Discreta|Agresor|Conversión a tipo numérico|Otros agr
 AGR_OTRAS_MUJ|Cuantitativa|Discreta|Agresor|Conversión a tipo numérico|Otras agresoras mujeres      (de 13 años en adelante)
 AGR_OTROS_N_OS|Cuantitativa|Discreta|Agresor|Conversión a tipo numérico|Otros agresores niños          (de 00 a 12 años)
 AGR_OTRAS_N_AS|Cuantitativa|Discreta|Agresor|Conversión a tipo numérico|Otras agresoras niñas           (de 00 a 12 años)
-LEY_APLICABLE|Cualitativa|Nominal|Institucion|Estandarización de tipos que son sinónimos|
+LEY_APLICABLE|Cualitativa|Nominal|Institucion|Estandarización de tipos que son sinónimos|Ley que se aplicó en el caso
