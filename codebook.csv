@@ -1,2 +1,48 @@
-column,description,
-ANO_EMISION,a,
+column|tipo|subtipo|categoría|limpieza|descripcion
+ANO_EMISION|Cuantitativa|Discreta|Registro|Valores a entero|Año de emisión o registro de la denuncia en las fuentes de información
+MES_EMISION|Cuantitativa|Discreta|Registro|De nombre del mes a numérico|Mes de emisión o registro de la denuncia
+DIA_EMISION|Cuantitativa|Discreta|Registro|Valores a entero|Día de emisión o registro de la denuncia
+FECHA_EMISION|Cuantitativa|Continua|Registro|Unificación de ANO_EMISION, MES_EMISION, DIA_EMISION|Fecha de emisión
+DEPTO_MCPIO|Cualitativa|Nominal|Registro|Estandarización de uso de etiquetas sobre indentificadores|Departamento y municipio de registro
+QUIEN_REPORTA|Cualitativa |Nominal|Registro|Proceso de limpieza no pertinente|Persona que reporta el hecho
+VIC_SEXO|Cualitativa|Nominal|Víctima|No se aplico un proceso de limpieza|Sexo de la víctima
+VIC_EDAD|Cuantitativa|Discreta|Víctima|Conversión a tipo numérico|Edad de la víctima
+TOTAL_HIJOS |Cuantitativa|Discreta|Víctima|Conversión a tipo numérico|Suma  de hijos hombres e hijas mujeres
+NUM_HIJ_HOM|Cuantitativa|Discreta|Víctima|Conversión a tipo numérico|Número de hijos hombres de la víctima
+NUM_HIJ_MUJ|Cuantitativa|Discreta|Víctima|Conversión a tipo numérico|Número de hijas mujeres de la víctima
+VIC_ALFAB|Cualitativa|Nominal|Víctima|Estandarización a valores concisos: Si, No, Desconocido|Víctima sabe leer y escribir
+VIC_ESCOLARIDAD|Cuantitativa |Discreta|Víctima|Proceso de limpieza no pertinente|Nivel de escolaridad de la víctima
+VIC_EST_CIV|Cualitativa|Nominal|Víctima|Proceso de limpieza no pertinente|Estado conyugal de la víctima
+VIC_GRUPET|Cualitativa|Nominal|Víctima|Proceso de limpieza no pertinente|Pueblo de pertenencia de la víctima
+VIC_NACIONAL|Cualitativa|Nominal|Víctima|Proceso de limpieza no pertinente|Nacionalidad de la víctima
+VIC_TRABAJA|Cualitativa|Nominal|Víctima|Estandarización a valores concisos: Si, No, Desconocido|Condición de empleo de la víctima
+VIC_DEDICA|Cualitativa|Nominal|Víctima|Unificación de VIC_DEDICA y VIC_OCUP ya que eran excluyentes|A que se dedica la víctima
+VIC_DISC|Cualitativa|Nominal|Víctima|Proceso de limpieza no pertinente|Discapacidad de la víctima
+VIC_REL_AGR|Cualitativa|Nominal|Víctima|Proceso de limpieza no pertinente|Relación de la víctima con el agresor
+OTRAS_VICTIMAS|Cuantitativa|Discreta|Víctima|Conversión a tipo numérico|Total otras víctimas
+VIC_OTRAS_HOM|Cuantitativa|Discreta|Víctima|Conversión a tipo numérico|Otras víctimas hombres        (de 13 años en adelante)
+VIC_OTRAS_MUJ|Cuantitativa|Discreta|Víctima|Conversión a tipo numérico|Otras víctimas mujeres          (de 13 años en adelante)
+VIC_OTRAS_N_OS|Cuantitativa|Discreta|Víctima|Conversión a tipo numérico|Otras víctimas niños              (de 00 a 12 años)
+VIC_OTRAS_N_AS|Cuantitativa|Discreta|Víctima|Conversión a tipo numérico|Otras víctimas niñas              (de 00 a 12 años)
+HEC_DIA|Cuantitativa|Discreta|Hecho|Conversión a tipo numérico|Día en que sucedió el hecho
+HEC_MES|Cuantitativa|Discreta|Hecho|De nombre del mes a numérico|Mes en que ocurrió el hecho
+HEC_ANO|Cuantitativa|Discreta|Hecho|Conversión a tipo numérico|Año en que ocurrió el hecho
+HEC_DEPTOMCPIO|Cualitativa|Nominal|Hecho|Estandarización de uso de etiquetas sobre indentificadores|Departamento y municipio donde ocurrió el hecho
+HEC_AREA|Cualitativa|Nominal|Hecho|Proceso de limpieza no pertinente|Área geográfica de ocurrencia
+HEC_TIPAGRE|Cualitativa|Nominal|Hecho|De tipo string a tipoplista|Tipos de agresión sufrida por la víctima
+HEC_RECUR_DENUN|Cualitativa|Nominal|Hecho|Proceso de limpieza no pertinente|Reiteración de la denuncia (ha denunciado con anterioridad)
+AGR_SEXO|Cualitativa|Nominal|Hecho|Proceso de limpieza no pertinente|Sexo del(a) agresor(a)
+AGR_EDAD|Cuantitativa|Discreta|Agresor|Conversión a tipo numérico|Edad del(a) agresor(a)
+AGR_ALFAB|Cualitativa|Nominal|Agresor|Estandarización a valores concisos: Si, No, Desconocido|Agresór sabe leer y escribir
+AGR_ESCOLARIDAD|Cuantitativa |Discreta|Agresor|Proceso de limpieza no pertinente|Nivel de escolaridad del agresor
+AGR_EST_CIV |Cualitativa|Nominal|Agresor|Proceso de limpieza no pertinente|Estado conyugal de la víctima
+AGR_GRUPET|Cualitativa|Nominal|Agresor|Proceso de limpieza no pertinente|Pueblo de pertenencia del agresor
+AGR_NACIONAL|Cualitativa|Nominal|Agresor|Proceso de limpieza no pertinente|Nacionalidad del agresor
+AGR_TRABAJA|Cualitativa|Nominal|Agresor|Estandarización a valores concisos: Si, No, Desconocido|Condición de empleo del agresor
+AGR_DEDICA|Cualitativa|Nominal|Agresor|Unificación de AGR_DEDICA y AGR_OCUP ya que eran excluyentes|A que se dedica el agresor
+AGRESORES_OTROS_TOTAL|Cuantitativa|Discreta|Agresor|Conversión a tipo numérico|Total otros agresores
+AGR_OTROS_HOM|Cuantitativa|Discreta|Agresor|Conversión a tipo numérico|Otros agresores hombres     (de 13 años en adelante)
+AGR_OTRAS_MUJ|Cuantitativa|Discreta|Agresor|Conversión a tipo numérico|Otras agresoras mujeres      (de 13 años en adelante)
+AGR_OTROS_N_OS|Cuantitativa|Discreta|Agresor|Conversión a tipo numérico|Otros agresores niños          (de 00 a 12 años)
+AGR_OTRAS_N_AS|Cuantitativa|Discreta|Agresor|Conversión a tipo numérico|Otras agresoras niñas           (de 00 a 12 años)
+LEY_APLICABLE|Cualitativa|Nominal|Institucion|Estandarización de tipos que son sinónimos|
