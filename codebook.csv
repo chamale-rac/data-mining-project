@@ -28,7 +28,7 @@ VIC_OTRAS_N_AS,Cuantitativa,Discreta,Víctima,Conversión a tipo numérico,Otras
 HEC_DIA,Cuantitativa,Discreta,Hecho,Conversión a tipo numérico,Día en que sucedió el hecho
 HEC_MES,Cuantitativa,Discreta,Hecho,De nombre del mes a numérico,Mes en que ocurrió el hecho
 HEC_ANO,Cuantitativa,Discreta,Hecho,Conversión a tipo numérico,Año en que ocurrió el hecho
-HEC_DEPTO,Cualitativa,Nominal,Hecho,Creación en base a códigos de municipio,Departamento donde ocurrió el hecho
+HEC_DPTO,Cualitativa,Nominal,Hecho,Creación en base a códigos de municipio,Departamento donde ocurrió el hecho
 HEC_MCPIO,Cualitativa,Nominal,Hecho,Estandarización de uso de etiquetas sobre indentificadores,Municipio donde ocurrió el hecho
 HEC_AREA,Cualitativa,Nominal,Hecho,Proceso de limpieza no pertinente,Área geográfica de ocurrencia
 HEC_TIPAGRE,Cualitativa,Nominal,Hecho,De tipo string a tipoplista,Tipos de agresión sufrida por la víctima
